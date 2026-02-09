@@ -1,166 +1,2124 @@
-geo,year,gdpcapita
-AUS,2000,21526
-AUS,2001,21772
-AUS,2002,22018
-AUS,2003,22264
-AUS,2004,22510
-AUS,2005,22756
-AUS,2006,23002
-AUS,2007,23248
-AUS,2008,23494
-AUS,2009,23740
-AUS,2010,23986
-BRA,2000,3077
-BRA,2001,3123
-BRA,2002,3169
-BRA,2003,3215
-BRA,2004,3261
-BRA,2005,3307
-BRA,2006,3353
-BRA,2007,3399
-BRA,2008,3445
-BRA,2009,3491
-BRA,2010,3537
-CAN,2000,23747
-CAN,2001,24091
-CAN,2002,24511
-CAN,2003,25027
-CAN,2004,25888
-CAN,2005,27017
-CAN,2006,28567
-CAN,2007,30028
-CAN,2008,31041
-CAN,2009,29872
-CAN,2010,31401
-CHN,2000,949
-CHN,2001,1028
-CHN,2002,1107
-CHN,2003,1186
-CHN,2004,1265
-CHN,2005,1344
-CHN,2006,1423
-CHN,2007,1502
-CHN,2008,1581
-CHN,2009,1660
-CHN,2010,1739
-DEU,2000,23021
-DEU,2001,23267
-DEU,2002,23513
-DEU,2003,23759
-DEU,2004,24005
-DEU,2005,24251
-DEU,2006,24497
-DEU,2007,24743
-DEU,2008,24989
-DEU,2009,25235
-DEU,2010,25481
-ESP,2000,14127
-ESP,2001,14373
-ESP,2002,14619
-ESP,2003,14865
-ESP,2004,15111
-ESP,2005,15357
-ESP,2006,15603
-ESP,2007,15849
-ESP,2008,16095
-ESP,2009,16341
-ESP,2010,16587
-FRA,2000,22432
-FRA,2001,22678
-FRA,2002,22924
-FRA,2003,23170
-FRA,2004,23416
-FRA,2005,23662
-FRA,2006,23908
-FRA,2007,24154
-FRA,2008,24400
-FRA,2009,24646
-FRA,2010,24892
-GBR,2000,25717
-GBR,2001,26011
-GBR,2002,26305
-GBR,2003,26599
-GBR,2004,26893
-GBR,2005,27187
-GBR,2006,27481
-GBR,2007,27775
-GBR,2008,28069
-GBR,2009,28363
-GBR,2010,28657
-IND,2000,443
-IND,2001,456
-IND,2002,469
-IND,2003,482
-IND,2004,495
-IND,2005,508
-IND,2006,521
-IND,2007,534
-IND,2008,547
-IND,2009,560
-IND,2010,573
-ITA,2000,20128
-ITA,2001,20374
-ITA,2002,20620
-ITA,2003,20866
-ITA,2004,21112
-ITA,2005,21358
-ITA,2006,21604
-ITA,2007,21850
-ITA,2008,22096
-ITA,2009,22342
-ITA,2010,22588
-JPN,2000,37304
-JPN,2001,37550
-JPN,2002,37796
-JPN,2003,38042
-JPN,2004,38288
-JPN,2005,38534
-JPN,2006,38780
-JPN,2007,39026
-JPN,2008,39272
-JPN,2009,39518
-JPN,2010,39764
-MEX,2000,6791
-MEX,2001,6801
-MEX,2002,6811
-MEX,2003,6821
-MEX,2004,6831
-MEX,2005,6841
-MEX,2006,6851
-MEX,2007,6861
-MEX,2008,6871
-MEX,2009,6881
-MEX,2010,6891
-NGA,2000,375
-NGA,2001,382
-NGA,2002,389
-NGA,2003,396
-NGA,2004,403
-NGA,2005,410
-NGA,2006,417
-NGA,2007,424
-NGA,2008,431
-NGA,2009,438
-NGA,2010,445
-USA,2000,36397
-USA,2001,36922
-USA,2002,37409
-USA,2003,38100
-USA,2004,39373
-USA,2005,41036
-USA,2006,43207
-USA,2007,44790
-USA,2008,45989
-USA,2009,44537
-USA,2010,46404
-ZAF,2000,3018
-ZAF,2001,3044
-ZAF,2002,3070
-ZAF,2003,3096
-ZAF,2004,3122
-ZAF,2005,3148
-ZAF,2006,3174
-ZAF,2007,3200
-ZAF,2008,3226
-ZAF,2009,3252
-ZAF,2010,3278
+geo,name,year,gdpcapita
+afg,Afghanistan,2000,1426.50934
+afg,Afghanistan,2001,1312.2368
+afg,Afghanistan,2002,1673.64821
+afg,Afghanistan,2003,1731.14825
+afg,Afghanistan,2004,1713.2018
+afg,Afghanistan,2005,1855.22812
+afg,Afghanistan,2006,1895.55139
+afg,Afghanistan,2007,2132.60481
+afg,Afghanistan,2008,2177.91615
+afg,Afghanistan,2009,2557.34077
+afg,Afghanistan,2010,2848.58606
+ago,Angola,2000,5352.49132
+ago,Angola,2001,5500.42866
+ago,Angola,2002,6149.13438
+ago,Angola,2003,6223.38333
+ago,Angola,2004,6749.75485
+ago,Angola,2005,7592.30709
+ago,Angola,2006,8283.14745
+ago,Angola,2007,9191.41108
+ago,Angola,2008,9889.65518
+ago,Angola,2009,9626.73739
+ago,Angola,2010,9672.83922
+alb,Albania,2000,6558.42258
+alb,Albania,2001,7210.04538
+alb,Albania,2002,7578.61364
+alb,Albania,2003,8024.27537
+alb,Albania,2004,8490.54991
+alb,Albania,2005,8977.57267
+alb,Albania,2006,9577.48492
+alb,Albania,2007,10272.64516
+alb,Albania,2008,11064.87257
+alb,Albania,2009,11435.59511
+alb,Albania,2010,11828.37497
+and,Andorra,2000,52814.6954
+and,Andorra,2001,56647.45065
+and,Andorra,2002,58701.07662
+and,Andorra,2003,61631.28478
+and,Andorra,2004,62814.03238
+and,Andorra,2005,64175.8719
+and,Andorra,2006,65819.16908
+and,Andorra,2007,65192.704
+and,Andorra,2008,60531.1931
+and,Andorra,2009,57182.71426
+and,Andorra,2010,58285.05778
+are,UAE,2000,88047.22698
+are,UAE,2001,85242.47915
+are,UAE,2002,83319.82832
+are,UAE,2003,86396.09866
+are,UAE,2004,90067.1992
+are,UAE,2005,89813.8553
+are,UAE,2006,91960.46888
+are,UAE,2007,84698.91602
+are,UAE,2008,78094.031
+are,UAE,2009,69482.12453
+are,UAE,2010,68799.93085
+arg,Argentina,2000,21810.83619
+arg,Argentina,2001,20678.60893
+arg,Argentina,2002,18277.79656
+arg,Argentina,2003,19736.98231
+arg,Argentina,2004,21350.38905
+arg,Argentina,2005,23052.59
+arg,Argentina,2006,24704.5175
+arg,Argentina,2007,26716.74246
+arg,Argentina,2008,27570.26577
+arg,Argentina,2009,25707.98973
+arg,Argentina,2010,28056.25702
+arm,Armenia,2000,4860.71825
+arm,Armenia,2001,5288.59752
+arm,Armenia,2002,5964.33327
+arm,Armenia,2003,6779.7368
+arm,Armenia,2004,7476.52129
+arm,Armenia,2005,8511.01241
+arm,Armenia,2006,9640.20116
+arm,Armenia,2007,10980.46168
+arm,Armenia,2008,11773.80791
+arm,Armenia,2009,10157.81885
+arm,Armenia,2010,10438.56419
+atg,Antigua and Barbuda,2000,25853.23485
+atg,Antigua and Barbuda,2001,24259.00936
+atg,Antigua and Barbuda,2002,24170.76163
+atg,Antigua and Barbuda,2003,25326.21687
+atg,Antigua and Barbuda,2004,26468.17333
+atg,Antigua and Barbuda,2005,27830.44701
+atg,Antigua and Barbuda,2006,30945.55644
+atg,Antigua and Barbuda,2007,33336.85979
+atg,Antigua and Barbuda,2008,32814.87869
+atg,Antigua and Barbuda,2009,28430.15923
+atg,Antigua and Barbuda,2010,25826.60864
+aus,Australia,2000,45546.30419
+aus,Australia,2001,45886.74826
+aus,Australia,2002,47144.6969
+aus,Australia,2003,48004.27426
+aus,Australia,2004,49439.27404
+aus,Australia,2005,50323.82948
+aus,Australia,2006,50945.63779
+aus,Australia,2007,51853.37495
+aus,Australia,2008,52538.92042
+aus,Australia,2009,52353.57082
+aus,Australia,2010,52589.81821
+aut,Austria,2000,52517.46107
+aut,Austria,2001,53143.62112
+aut,Austria,2002,53809.15485
+aut,Austria,2003,54262.66063
+aut,Austria,2004,55440.73462
+aut,Austria,2005,56453.61958
+aut,Austria,2006,58131.01608
+aut,Austria,2007,60240.1574
+aut,Austria,2008,61035.70774
+aut,Austria,2009,58788.94457
+aut,Austria,2010,59803.37263
+aze,Azerbaijan,2000,5652.91901
+aze,Azerbaijan,2001,6148.07154
+aze,Azerbaijan,2002,6679.78178
+aze,Azerbaijan,2003,7318.7397
+aze,Azerbaijan,2004,7940.9474
+aze,Azerbaijan,2005,10056.51613
+aze,Azerbaijan,2006,13382.80963
+aze,Azerbaijan,2007,16603.11847
+aze,Azerbaijan,2008,17986.23868
+aze,Azerbaijan,2009,19260.39807
+aze,Azerbaijan,2010,19925.3901
+bdi,Burundi,2000,988.06467
+bdi,Burundi,2001,982.29729
+bdi,Burundi,2002,996.91237
+bdi,Burundi,2003,954.10637
+bdi,Burundi,2004,963.73197
+bdi,Burundi,2005,937.35638
+bdi,Burundi,2006,953.30578
+bdi,Burundi,2007,950.63619
+bdi,Burundi,2008,956.92423
+bdi,Burundi,2009,944.66136
+bdi,Burundi,2010,947.62142
+bel,Belgium,2000,49661.30813
+bel,Belgium,2001,50107.04562
+bel,Belgium,2002,50830.50141
+bel,Belgium,2003,51220.07901
+bel,Belgium,2004,52915.96859
+bel,Belgium,2005,53931.0984
+bel,Belgium,2006,55036.00936
+bel,Belgium,2007,56730.34608
+bel,Belgium,2008,56634.78441
+bel,Belgium,2009,55194.46025
+bel,Belgium,2010,56265.01535
+ben,Benin,2000,2538.05058
+ben,Benin,2001,2588.96065
+ben,Benin,2002,2624.71693
+ben,Benin,2003,2631.44771
+ben,Benin,2004,2663.81673
+ben,Benin,2005,2623.1785
+ben,Benin,2006,2643.19254
+ben,Benin,2007,2720.93466
+ben,Benin,2008,2771.27796
+ben,Benin,2009,2754.5594
+ben,Benin,2010,2733.574
+bfa,Burkina Faso,2000,1464.85074
+bfa,Burkina Faso,2001,1505.71542
+bfa,Burkina Faso,2002,1514.50187
+bfa,Burkina Faso,2003,1575.74865
+bfa,Burkina Faso,2004,1590.67361
+bfa,Burkina Faso,2005,1670.88941
+bfa,Burkina Faso,2006,1717.69219
+bfa,Burkina Faso,2007,1732.62043
+bfa,Burkina Faso,2008,1778.65964
+bfa,Burkina Faso,2009,1778.44245
+bfa,Burkina Faso,2010,1873.97146
+bgd,Bangladesh,2000,2594.17073
+bgd,Bangladesh,2001,2696.53287
+bgd,Bangladesh,2002,2775.91996
+bgd,Bangladesh,2003,2883.41361
+bgd,Bangladesh,2004,3009.80039
+bgd,Bangladesh,2005,3179.34961
+bgd,Bangladesh,2006,3365.82922
+bgd,Bangladesh,2007,3576.82402
+bgd,Bangladesh,2008,3766.29471
+bgd,Bangladesh,2009,3931.6318
+bgd,Bangladesh,2010,4125.4639
+bgr,Bulgaria,2000,12360.28586
+bgr,Bulgaria,2001,13097.34284
+bgr,Bulgaria,2002,14180.77345
+bgr,Bulgaria,2003,15074.91577
+bgr,Bulgaria,2004,16211.61121
+bgr,Bulgaria,2005,17522.70718
+bgr,Bulgaria,2006,18893.69888
+bgr,Bulgaria,2007,20341.2392
+bgr,Bulgaria,2008,21773.76281
+bgr,Bulgaria,2009,21212.03036
+bgr,Bulgaria,2010,21715.87944
+bhr,Bahrain,2000,50712.61814
+bhr,Bahrain,2001,51285.60742
+bhr,Bahrain,2002,50570.68669
+bhr,Bahrain,2003,51033.55385
+bhr,Bahrain,2004,51564.13976
+bhr,Bahrain,2005,51742.52452
+bhr,Bahrain,2006,51544.47812
+bhr,Bahrain,2007,52029.9827
+bhr,Bahrain,2008,52382.05924
+bhr,Bahrain,2009,50536.55832
+bhr,Bahrain,2010,50704.84797
+bhs,Bahamas,2000,35809.90008
+bhs,Bahamas,2001,36163.258
+bhs,Bahamas,2002,36572.30382
+bhs,Bahamas,2003,35540.32688
+bhs,Bahamas,2004,35281.75243
+bhs,Bahamas,2005,35913.06617
+bhs,Bahamas,2006,36219.61497
+bhs,Bahamas,2007,36111.97019
+bhs,Bahamas,2008,34695.01929
+bhs,Bahamas,2009,32721.33578
+bhs,Bahamas,2010,32711.37709
+bih,Bosnia and Herzegovina,2000,8042.28229
+bih,Bosnia and Herzegovina,2001,8163.04151
+bih,Bosnia and Herzegovina,2002,8523.8492
+bih,Bosnia and Herzegovina,2003,8835.83828
+bih,Bosnia and Herzegovina,2004,9435.22034
+bih,Bosnia and Herzegovina,2005,9876.18345
+bih,Bosnia and Herzegovina,2006,10471.38047
+bih,Bosnia and Herzegovina,2007,11199.55834
+bih,Bosnia and Herzegovina,2008,11988.35044
+bih,Bosnia and Herzegovina,2009,11825.86114
+bih,Bosnia and Herzegovina,2010,12138.82997
+blr,Belarus,2000,11318.10471
+blr,Belarus,2001,11878.88622
+blr,Belarus,2002,12526.02397
+blr,Belarus,2003,13472.64907
+blr,Belarus,2004,15091.04364
+blr,Belarus,2005,16600.19864
+blr,Belarus,2006,18353.86259
+blr,Belarus,2007,20011.91277
+blr,Belarus,2008,22124.33048
+blr,Belarus,2009,22225.93024
+blr,Belarus,2010,24012.6133
+blz,Belize,2000,11031.56911
+blz,Belize,2001,11261.79789
+blz,Belize,2002,11548.02347
+blz,Belize,2003,12326.98025
+blz,Belize,2004,12578.82112
+blz,Belize,2005,12529.80251
+blz,Belize,2006,12761.70199
+blz,Belize,2007,12847.1043
+blz,Belize,2008,12342.61143
+blz,Belize,2009,11999.14883
+blz,Belize,2010,11868.43824
+bol,Bolivia,2000,6060.87479
+bol,Bolivia,2001,6066.93577
+bol,Bolivia,2002,6122.5081
+bol,Bolivia,2003,6192.03689
+bol,Bolivia,2004,6351.81087
+bol,Bolivia,2005,6531.13931
+bol,Bolivia,2006,6738.86198
+bol,Bolivia,2007,6937.27474
+bol,Bolivia,2008,7251.28026
+bol,Bolivia,2009,7381.66073
+bol,Bolivia,2010,7571.67809
+bra,Brazil,2000,13877.23439
+bra,Brazil,2001,13920.8243
+bra,Brazil,2002,14197.89149
+bra,Brazil,2003,14215.68904
+bra,Brazil,2004,14886.34538
+bra,Brazil,2005,15212.23538
+bra,Brazil,2006,15660.71617
+bra,Brazil,2007,16451.32711
+bra,Brazil,2008,17126.52233
+bra,Brazil,2009,16948.73547
+bra,Brazil,2010,18062.15811
+brb,Barbados,2000,18548.02361
+brb,Barbados,2001,18080.68091
+brb,Barbados,2002,18119.64226
+brb,Barbados,2003,18418.65422
+brb,Barbados,2004,18595.68699
+brb,Barbados,2005,19260.31628
+brb,Barbados,2006,20363.39007
+brb,Barbados,2007,20728.77509
+brb,Barbados,2008,20801.28824
+brb,Barbados,2009,19713.49606
+brb,Barbados,2010,19253.40887
+brn,Brunei,2000,101598.6423
+brn,Brunei,2001,100990.246
+brn,Brunei,2002,102751.4651
+brn,Brunei,2003,104211.3871
+brn,Brunei,2004,102368.0208
+brn,Brunei,2005,100544.8503
+brn,Brunei,2006,102890.0897
+brn,Brunei,2007,97391.78044
+brn,Brunei,2008,91747.44947
+brn,Brunei,2009,88113.30075
+brn,Brunei,2010,88586.51319
+btn,Bhutan,2000,5180.90553
+btn,Bhutan,2001,5451.89782
+btn,Bhutan,2002,5904.19659
+btn,Bhutan,2003,6243.53003
+btn,Bhutan,2004,6452.59428
+btn,Bhutan,2005,6795.21887
+btn,Bhutan,2006,7099.1339
+btn,Bhutan,2007,8164.68035
+btn,Bhutan,2008,8449.9188
+btn,Bhutan,2009,9007.33496
+btn,Bhutan,2010,9985.28456
+bwa,Botswana,2000,12805.35493
+bwa,Botswana,2001,12650.07463
+bwa,Botswana,2002,13235.91825
+bwa,Botswana,2003,13667.95523
+bwa,Botswana,2004,13847.1077
+bwa,Botswana,2005,14266.72898
+bwa,Botswana,2006,15214.66543
+bwa,Botswana,2007,15834.79471
+bwa,Botswana,2008,16054.36712
+bwa,Botswana,2009,13514.87906
+bwa,Botswana,2010,14545.01981
+caf,Central African Republic,2000,1251.66767
+caf,Central African Republic,2001,1272.83459
+caf,Central African Republic,2002,1284.59771
+caf,Central African Republic,2003,1185.51422
+caf,Central African Republic,2004,1227.64332
+caf,Central African Republic,2005,1214.27096
+caf,Central African Republic,2006,1247.43849
+caf,Central African Republic,2007,1280.71356
+caf,Central African Republic,2008,1280.95449
+caf,Central African Republic,2009,1399.56732
+caf,Central African Republic,2010,1479.41368
+can,Canada,2000,48531.94581
+can,Canada,2001,48907.58879
+can,Canada,2002,49832.67542
+can,Canada,2003,50273.67479
+can,Canada,2004,51339.96742
+can,Canada,2005,52476.82097
+can,Canada,2006,53301.87205
+can,Canada,2007,53848.94902
+can,Canada,2008,53774.36923
+can,Canada,2009,51584.35178
+can,Canada,2010,52558.44081
+che,Switzerland,2000,65911.90228
+che,Switzerland,2001,66819.6546
+che,Switzerland,2002,66551.52824
+che,Switzerland,2003,66274.24755
+che,Switzerland,2004,67806.4892
+che,Switzerland,2005,69407.28865
+che,Switzerland,2006,71913.81445
+che,Switzerland,2007,74172.04891
+che,Switzerland,2008,75340.96646
+che,Switzerland,2009,72723.57395
+che,Switzerland,2010,74290.26196
+chl,Chile,2000,17899.00288
+chl,Chile,2001,18203.3168
+chl,Chile,2002,18507.13745
+chl,Chile,2003,19112.96786
+chl,Chile,2004,20129.54922
+chl,Chile,2005,21053.24367
+chl,Chile,2006,22076.29454
+chl,Chile,2007,22953.69623
+chl,Chile,2008,23554.10232
+chl,Chile,2009,23031.25128
+chl,Chile,2010,24116.76947
+chn,China,2000,4330.14292
+chn,China,2001,4616.19699
+chn,China,2002,4970.91269
+chn,China,2003,5389.66196
+chn,China,2004,5859.59286
+chn,China,2005,6453.21746
+chn,China,2006,7186.97235
+chn,China,2007,8108.53713
+chn,China,2008,8799.84465
+chn,China,2009,9546.11114
+chn,China,2010,10476.31236
+civ,Cote d'Ivoire,2000,4549.02362
+civ,Cote d'Ivoire,2001,4385.22538
+civ,Cote d'Ivoire,2002,4196.07952
+civ,Cote d'Ivoire,2003,3941.89109
+civ,Cote d'Ivoire,2004,3987.0524
+civ,Cote d'Ivoire,2005,3956.21195
+civ,Cote d'Ivoire,2006,3990.13542
+civ,Cote d'Ivoire,2007,3960.4846
+civ,Cote d'Ivoire,2008,4069.77716
+civ,Cote d'Ivoire,2009,4138.37014
+civ,Cote d'Ivoire,2010,4338.65248
+cmr,Cameroon,2000,3621.82516
+cmr,Cameroon,2001,3709.02314
+cmr,Cameroon,2002,3796.465
+cmr,Cameroon,2003,3916.11892
+cmr,Cameroon,2004,4093.34117
+cmr,Cameroon,2005,4096.94001
+cmr,Cameroon,2006,4160.88698
+cmr,Cameroon,2007,4242.1752
+cmr,Cameroon,2008,4261.89362
+cmr,Cameroon,2009,4268.0423
+cmr,Cameroon,2010,4286.58303
+cod,"Congo, Dem. Rep.",2000,828.85463
+cod,"Congo, Dem. Rep.",2001,794.37406
+cod,"Congo, Dem. Rep.",2002,800.59337
+cod,"Congo, Dem. Rep.",2003,828.0398
+cod,"Congo, Dem. Rep.",2004,864.96169
+cod,"Congo, Dem. Rep.",2005,896.68398
+cod,"Congo, Dem. Rep.",2006,921.55178
+cod,"Congo, Dem. Rep.",2007,955.42186
+cod,"Congo, Dem. Rep.",2008,989.53891
+cod,"Congo, Dem. Rep.",2009,990.8234
+cod,"Congo, Dem. Rep.",2010,1031.25015
+cog,"Congo, Rep.",2000,7242.9104
+cog,"Congo, Rep.",2001,7294.20583
+cog,"Congo, Rep.",2002,7502.37544
+cog,"Congo, Rep.",2003,7398.52442
+cog,"Congo, Rep.",2004,7436.93638
+cog,"Congo, Rep.",2005,7763.52189
+cog,"Congo, Rep.",2006,8098.86813
+cog,"Congo, Rep.",2007,7334.53258
+cog,"Congo, Rep.",2008,7563.11272
+cog,"Congo, Rep.",2009,8123.95003
+cog,"Congo, Rep.",2010,8583.6618
+col,Colombia,2000,10888.18673
+col,Colombia,2001,10894.52373
+col,Colombia,2002,10992.22787
+col,Colombia,2003,11245.90019
+col,Colombia,2004,11665.76625
+col,Colombia,2005,12049.36378
+col,Colombia,2006,12679.47727
+col,Colombia,2007,13353.26412
+col,Colombia,2008,13615.83592
+col,Colombia,2009,13600.03139
+col,Colombia,2010,14037.06427
+com,Comoros,2000,2273.33458
+com,Comoros,2001,2294.63481
+com,Comoros,2002,2314.18283
+com,Comoros,2003,2332.14917
+com,Comoros,2004,2346.10974
+com,Comoros,2005,2377.91779
+com,Comoros,2006,2416.55885
+com,Comoros,2007,2398.29711
+com,Comoros,2008,2454.34737
+com,Comoros,2009,2571.20352
+com,Comoros,2010,2652.35554
+cpv,Cape Verde,2000,4548.5827
+cpv,Cape Verde,2001,4606.10486
+cpv,Cape Verde,2002,4778.18896
+cpv,Cape Verde,2003,4911.28625
+cpv,Cape Verde,2004,5314.50301
+cpv,Cape Verde,2005,5610.24679
+cpv,Cape Verde,2006,5990.66899
+cpv,Cape Verde,2007,6796.34351
+cpv,Cape Verde,2008,7191.44707
+cpv,Cape Verde,2009,7006.94046
+cpv,Cape Verde,2010,7072.1215
+cri,Costa Rica,2000,13782.50564
+cri,Costa Rica,2001,14029.94754
+cri,Costa Rica,2002,14292.54159
+cri,Costa Rica,2003,14704.92674
+cri,Costa Rica,2004,15154.97314
+cri,Costa Rica,2005,15556.8969
+cri,Costa Rica,2006,16492.96127
+cri,Costa Rica,2007,17639.71114
+cri,Costa Rica,2008,18260.81572
+cri,Costa Rica,2009,17895.99829
+cri,Costa Rica,2010,18660.91982
+cub,Cuba,2000,7647.73734
+cub,Cuba,2001,8119.34692
+cub,Cuba,2002,8434.14926
+cub,Cuba,2003,8752.4162
+cub,Cuba,2004,8910.08077
+cub,Cuba,2005,9263.86702
+cub,Cuba,2006,10706.87063
+cub,Cuba,2007,11208.20457
+cub,Cuba,2008,12013.21478
+cub,Cuba,2009,12573.85408
+cub,Cuba,2010,13316.87827
+cyp,Cyprus,2000,35146.08645
+cyp,Cyprus,2001,36270.17002
+cyp,Cyprus,2002,37316.81467
+cyp,Cyprus,2003,37960.10239
+cyp,Cyprus,2004,39451.72924
+cyp,Cyprus,2005,40867.72119
+cyp,Cyprus,2006,42205.32005
+cyp,Cyprus,2007,43535.21052
+cyp,Cyprus,2008,44115.7042
+cyp,Cyprus,2009,42175.14639
+cyp,Cyprus,2010,42103.49219
+cze,Czech Republic,2000,28370.00746
+cze,Czech Republic,2001,29468.17141
+cze,Czech Republic,2002,30123.97847
+cze,Czech Republic,2003,31277.53326
+cze,Czech Republic,2004,32890.10004
+cze,Czech Republic,2005,35070.80206
+cze,Czech Republic,2006,37423.03942
+cze,Czech Republic,2007,39364.57918
+cze,Czech Republic,2008,40164.41046
+cze,Czech Republic,2009,38104.15407
+cze,Czech Republic,2010,39097.38862
+deu,Germany,2000,49166.3611
+deu,Germany,2001,50045.1131
+deu,Germany,2002,49997.86247
+deu,Germany,2003,49816.02816
+deu,Germany,2004,50512.77605
+deu,Germany,2005,51073.62335
+deu,Germany,2006,53177.1987
+deu,Germany,2007,54860.79382
+deu,Germany,2008,55513.4028
+deu,Germany,2009,52592.0867
+deu,Germany,2010,54865.43053
+dji,Djibouti,2000,2521.51529
+dji,Djibouti,2001,2557.02477
+dji,Djibouti,2002,2620.20795
+dji,Djibouti,2003,2722.54103
+dji,Djibouti,2004,2839.82841
+dji,Djibouti,2005,2968.8721
+dji,Djibouti,2006,3170.59332
+dji,Djibouti,2007,3368.59384
+dji,Djibouti,2008,3583.51384
+dji,Djibouti,2009,3618.53052
+dji,Djibouti,2010,3762.14345
+dma,Dominica,2000,12874.84616
+dma,Dominica,2001,13047.95775
+dma,Dominica,2002,12779.05165
+dma,Dominica,2003,13649.60702
+dma,Dominica,2004,14299.28551
+dma,Dominica,2005,14528.24573
+dma,Dominica,2006,15283.57887
+dma,Dominica,2007,16225.64409
+dma,Dominica,2008,17510.53683
+dma,Dominica,2009,17425.80862
+dma,Dominica,2010,17516.78796
+dnk,Denmark,2000,56639.72033
+dnk,Denmark,2001,57085.17502
+dnk,Denmark,2002,57276.5858
+dnk,Denmark,2003,57474.14866
+dnk,Denmark,2004,59009.8913
+dnk,Denmark,2005,60326.06387
+dnk,Denmark,2006,62510.52475
+dnk,Denmark,2007,62919.9468
+dnk,Denmark,2008,62352.38563
+dnk,Denmark,2009,58986.51834
+dnk,Denmark,2010,59696.35452
+dom,Dominican Republic,2000,10613.62976
+dom,Dominican Republic,2001,10748.1998
+dom,Dominican Republic,2002,11126.98037
+dom,Dominican Republic,2003,10872.45789
+dom,Dominican Republic,2004,11023.51759
+dom,Dominican Republic,2005,11937.99638
+dom,Dominican Republic,2006,12911.00071
+dom,Dominican Republic,2007,13729.57546
+dom,Dominican Republic,2008,14019.31898
+dom,Dominican Republic,2009,13990.26825
+dom,Dominican Republic,2010,14975.00101
+dza,Algeria,2000,11174.92144
+dza,Algeria,2001,11448.35008
+dza,Algeria,2002,11995.66873
+dza,Algeria,2003,12691.81772
+dza,Algeria,2004,13141.18565
+dza,Algeria,2005,13707.76136
+dza,Algeria,2006,13917.79015
+dza,Algeria,2007,14137.48114
+dza,Algeria,2008,14237.54472
+dza,Algeria,2009,14128.60865
+dza,Algeria,2010,14496.42113
+ecu,Ecuador,2000,9189.07161
+ecu,Ecuador,2001,9420.20124
+ecu,Ecuador,2002,9712.47644
+ecu,Ecuador,2003,9819.84503
+ecu,Ecuador,2004,10319.22268
+ecu,Ecuador,2005,10685.98054
+ecu,Ecuador,2006,10958.56386
+ecu,Ecuador,2007,10976.96621
+ecu,Ecuador,2008,11493.50756
+ecu,Ecuador,2009,11413.55564
+ecu,Ecuador,2010,11665.69786
+egy,Egypt,2000,9804.51932
+egy,Egypt,2001,9999.27693
+egy,Egypt,2002,10072.53787
+egy,Egypt,2003,10208.25965
+egy,Egypt,2004,10432.81398
+egy,Egypt,2005,10701.49106
+egy,Egypt,2006,11220.50957
+egy,Egypt,2007,11799.37304
+egy,Egypt,2008,12407.23243
+egy,Egypt,2009,12739.69042
+egy,Egypt,2010,13128.98783
+eri,Eritrea,2000,1470.36504
+eri,Eritrea,2001,1552.31716
+eri,Eritrea,2002,1531.23529
+eri,Eritrea,2003,1428.35682
+eri,Eritrea,2004,1401.6936
+eri,Eritrea,2005,1406.10549
+eri,Eritrea,2006,1371.76749
+eri,Eritrea,2007,1373.89436
+eri,Eritrea,2008,1094.6138
+eri,Eritrea,2009,1196.4888
+eri,Eritrea,2010,1306.466
+esp,Spain,2000,39364.63231
+esp,Spain,2001,40739.16636
+esp,Spain,2002,41366.64971
+esp,Spain,2003,41913.25931
+esp,Spain,2004,42562.96373
+esp,Spain,2005,43400.49882
+esp,Spain,2006,44458.13989
+esp,Spain,2007,45232.17425
+esp,Spain,2008,44895.56756
+esp,Spain,2009,42844.18943
+esp,Spain,2010,42695.52742
+est,Estonia,2000,20974.85794
+est,Estonia,2001,22290.85904
+est,Estonia,2002,23898.59735
+est,Estonia,2003,25814.06126
+est,Estonia,2004,27675.34626
+est,Estonia,2005,30444.97207
+est,Estonia,2006,33599.05985
+est,Estonia,2007,36298.32759
+est,Estonia,2008,34530.8009
+est,Estonia,2009,29553.15493
+est,Estonia,2010,30379.10913
+eth,Ethiopia,2000,838.63896
+eth,Ethiopia,2001,874.26297
+eth,Ethiopia,2002,861.11509
+eth,Ethiopia,2003,815.90332
+eth,Ethiopia,2004,889.25057
+eth,Ethiopia,2005,962.42678
+eth,Ethiopia,2006,1032.8501
+eth,Ethiopia,2007,1114.84014
+eth,Ethiopia,2008,1197.23535
+eth,Ethiopia,2009,1264.25544
+eth,Ethiopia,2010,1381.19045
+fin,Finland,2000,46480.58365
+fin,Finland,2001,47650.01092
+fin,Finland,2002,48390.8085
+fin,Finland,2003,49300.35799
+fin,Finland,2004,51178.8478
+fin,Finland,2005,52477.08912
+fin,Finland,2006,54435.98489
+fin,Finland,2007,57140.60224
+fin,Finland,2008,57379.21966
+fin,Finland,2009,52545.32598
+fin,Finland,2010,54017.94586
+fji,Fiji,2000,9351.40908
+fji,Fiji,2001,9456.52944
+fji,Fiji,2002,9678.79793
+fji,Fiji,2003,9696.60146
+fji,Fiji,2004,10127.03988
+fji,Fiji,2005,10112.25152
+fji,Fiji,2006,10210.99365
+fji,Fiji,2007,10041.97504
+fji,Fiji,2008,10084.79561
+fji,Fiji,2009,9905.77984
+fji,Fiji,2010,10167.34962
+fra,France,2000,45733.71556
+fra,France,2001,46304.54285
+fra,France,2002,46495.2528
+fra,France,2003,46636.54244
+fra,France,2004,47646.61563
+fra,France,2005,48195.83192
+fra,France,2006,49169.89075
+fra,France,2007,50116.61434
+fra,France,2008,50040.18577
+fra,France,2009,48391.26396
+fra,France,2010,49130.42294
+fsm,"Micronesia, Fed. Sts.",2000,3685.98012
+fsm,"Micronesia, Fed. Sts.",2001,3747.83183
+fsm,"Micronesia, Fed. Sts.",2002,3759.02757
+fsm,"Micronesia, Fed. Sts.",2003,3816.94106
+fsm,"Micronesia, Fed. Sts.",2004,3702.98912
+fsm,"Micronesia, Fed. Sts.",2005,3787.95304
+fsm,"Micronesia, Fed. Sts.",2006,3800.24146
+fsm,"Micronesia, Fed. Sts.",2007,3751.28828
+fsm,"Micronesia, Fed. Sts.",2008,3684.97378
+fsm,"Micronesia, Fed. Sts.",2009,3750.78882
+fsm,"Micronesia, Fed. Sts.",2010,3842.23613
+gab,Gabon,2000,20439.64102
+gab,Gabon,2001,20584.51941
+gab,Gabon,2002,20173.20857
+gab,Gabon,2003,20273.43083
+gab,Gabon,2004,20020.44574
+gab,Gabon,2005,20089.26663
+gab,Gabon,2006,19055.90344
+gab,Gabon,2007,19671.99521
+gab,Gabon,2008,18472.96499
+gab,Gabon,2009,17915.04478
+gab,Gabon,2010,18530.57609
+gbr,UK,2000,43163.51653
+gbr,UK,2001,44115.61785
+gbr,UK,2002,44751.84782
+gbr,UK,2003,45963.07531
+gbr,UK,2004,46828.68704
+gbr,UK,2005,47788.26355
+gbr,UK,2006,48571.69291
+gbr,UK,2007,49459.8415
+gbr,UK,2008,48947.71347
+gbr,UK,2009,46342.91858
+gbr,UK,2010,47013.88241
+geo,Georgia,2000,5817.64099
+geo,Georgia,2001,6168.02458
+geo,Georgia,2002,6546.59987
+geo,Georgia,2003,7304.22141
+geo,Georgia,2004,7757.61197
+geo,Georgia,2005,8531.25642
+geo,Georgia,2006,9368.12491
+geo,Georgia,2007,10588.92675
+geo,Georgia,2008,10868.556
+geo,Georgia,2009,10556.10672
+geo,Georgia,2010,11294.36859
+gha,Ghana,2000,3247.06701
+gha,Ghana,2001,3299.50233
+gha,Ghana,2002,3364.62378
+gha,Ghana,2003,3454.94981
+gha,Ghana,2004,3561.94033
+gha,Ghana,2005,3683.02601
+gha,Ghana,2006,3826.47521
+gha,Ghana,2007,3899.59845
+gha,Ghana,2008,4158.47667
+gha,Ghana,2009,4260.95433
+gha,Ghana,2010,4495.68917
+gin,Guinea,2000,2188.59249
+gin,Guinea,2001,2261.24514
+gin,Guinea,2002,2362.78757
+gin,Guinea,2003,2357.32725
+gin,Guinea,2004,2379.76742
+gin,Guinea,2005,2421.05132
+gin,Guinea,2006,2416.21988
+gin,Guinea,2007,2539.14707
+gin,Guinea,2008,2597.95859
+gin,Guinea,2009,2522.31914
+gin,Guinea,2010,2594.8305
+gmb,Gambia,2000,2538.65544
+gmb,Gambia,2001,2628.79005
+gmb,Gambia,2002,2500.01615
+gmb,Gambia,2003,2601.61094
+gmb,Gambia,2004,2728.61837
+gmb,Gambia,2005,2606.00889
+gmb,Gambia,2006,2531.6846
+gmb,Gambia,2007,2544.14242
+gmb,Gambia,2008,2634.21604
+gmb,Gambia,2009,2737.72235
+gmb,Gambia,2010,2824.21259
+gnb,Guinea-Bissau,2000,1903.68346
+gnb,Guinea-Bissau,2001,1951.61367
+gnb,Guinea-Bissau,2002,1974.42194
+gnb,Guinea-Bissau,2003,1933.98218
+gnb,Guinea-Bissau,2004,1921.90486
+gnb,Guinea-Bissau,2005,2004.37282
+gnb,Guinea-Bissau,2006,2015.43233
+gnb,Guinea-Bissau,2007,2023.64221
+gnb,Guinea-Bissau,2008,2068.09149
+gnb,Guinea-Bissau,2009,2072.05371
+gnb,Guinea-Bissau,2010,2138.02686
+gnq,Equatorial Guinea,2000,12428.04693
+gnq,Equatorial Guinea,2001,19105.05954
+gnq,Equatorial Guinea,2002,21418.4856
+gnq,Equatorial Guinea,2003,22887.27786
+gnq,Equatorial Guinea,2004,29356.54335
+gnq,Equatorial Guinea,2005,32249.49451
+gnq,Equatorial Guinea,2006,33027.962
+gnq,Equatorial Guinea,2007,36215.3295
+gnq,Equatorial Guinea,2008,40526.68854
+gnq,Equatorial Guinea,2009,38976.73346
+gnq,Equatorial Guinea,2010,33668.87407
+grc,Greece,2000,30878.47385
+grc,Greece,2001,32216.03115
+grc,Greece,2002,33660.65195
+grc,Greece,2003,35613.94532
+grc,Greece,2004,37508.87544
+grc,Greece,2005,37901.02852
+grc,Greece,2006,40277.6367
+grc,Greece,2007,41648.95477
+grc,Greece,2008,41617.32244
+grc,Greece,2009,39846.18215
+grc,Greece,2010,37566.74837
+grd,Grenada,2000,11784.00236
+grd,Grenada,2001,11474.64677
+grd,Grenada,2002,11808.09279
+grd,Grenada,2003,12852.81801
+grd,Grenada,2004,12702.39748
+grd,Grenada,2005,14316.43725
+grd,Grenada,2006,13676.87097
+grd,Grenada,2007,14444.55033
+grd,Grenada,2008,14512.62241
+grd,Grenada,2009,13490.53871
+grd,Grenada,2010,13363.09203
+gtm,Guatemala,2000,8628.76971
+gtm,Guatemala,2001,8647.82894
+gtm,Guatemala,2002,8791.80193
+gtm,Guatemala,2003,8830.89407
+gtm,Guatemala,2004,8923.16468
+gtm,Guatemala,2005,9031.22567
+gtm,Guatemala,2006,9328.01386
+gtm,Guatemala,2007,9726.22375
+gtm,Guatemala,2008,9857.30345
+gtm,Guatemala,2009,9724.45031
+gtm,Guatemala,2010,9825.0174
+guy,Guyana,2000,7728.71826
+guy,Guyana,2001,7940.0353
+guy,Guyana,2002,8068.25115
+guy,Guyana,2003,8052.1375
+guy,Guyana,2004,8215.14184
+guy,Guyana,2005,8099.96146
+guy,Guyana,2006,8568.65446
+guy,Guyana,2007,9244.30508
+guy,Guyana,2008,9471.54647
+guy,Guyana,2009,9884.66399
+guy,Guyana,2010,10374.39476
+hnd,Honduras,2000,4561.67337
+hnd,Honduras,2001,4567.90827
+hnd,Honduras,2002,4621.84604
+hnd,Honduras,2003,4714.39261
+hnd,Honduras,2004,4888.62686
+hnd,Honduras,2005,5062.7798
+hnd,Honduras,2006,5270.98125
+hnd,Honduras,2007,5470.17678
+hnd,Honduras,2008,5573.82136
+hnd,Honduras,2009,5317.86049
+hnd,Honduras,2010,5396.07228
+hrv,Croatia,2000,20744.13228
+hrv,Croatia,2001,22211.13259
+hrv,Croatia,2002,23571.12738
+hrv,Croatia,2003,24989.31837
+hrv,Croatia,2004,26127.9304
+hrv,Croatia,2005,27321.1578
+hrv,Croatia,2006,28790.69754
+hrv,Croatia,2007,30337.54416
+hrv,Croatia,2008,31012.22676
+hrv,Croatia,2009,28981.8043
+hrv,Croatia,2010,28704.52721
+hti,Haiti,2000,3044.25409
+hti,Haiti,2001,3002.41933
+hti,Haiti,2002,3001.23422
+hti,Haiti,2003,3067.16904
+hti,Haiti,2004,2993.79455
+hti,Haiti,2005,3055.95983
+hti,Haiti,2006,3082.35804
+hti,Haiti,2007,3194.91253
+hti,Haiti,2008,3246.74698
+hti,Haiti,2009,3403.47309
+hti,Haiti,2010,3195.24821
+hun,Hungary,2000,21395.97367
+hun,Hungary,2001,22440.53385
+hun,Hungary,2002,23689.88094
+hun,Hungary,2003,24810.57948
+hun,Hungary,2004,26212.32986
+hun,Hungary,2005,27496.65624
+hun,Hungary,2006,28710.4327
+hun,Hungary,2007,28925.20692
+hun,Hungary,2008,29319.78459
+hun,Hungary,2009,27424.58359
+hun,Hungary,2010,27801.83382
+idn,Indonesia,2000,6206.67205
+idn,Indonesia,2001,6331.96468
+idn,Indonesia,2002,6514.41786
+idn,Indonesia,2003,6721.55555
+idn,Indonesia,2004,6954.3854
+idn,Indonesia,2005,7239.70057
+idn,Indonesia,2006,7518.89093
+idn,Indonesia,2007,7870.61403
+idn,Indonesia,2008,8216.98862
+idn,Indonesia,2009,8463.00413
+idn,Indonesia,2010,8848.22474
+ind,India,2000,3176.02294
+ind,India,2001,3260.4152
+ind,India,2002,3312.59814
+ind,India,2003,3502.41996
+ind,India,2004,3706.63429
+ind,India,2005,3925.41317
+ind,India,2006,4167.70953
+ind,India,2007,4410.92781
+ind,India,2008,4474.6522
+ind,India,2009,4744.01134
+ind,India,2010,5059.28271
+irl,Ireland,2000,53465.98999
+irl,Ireland,2001,55573.33959
+irl,Ireland,2002,57938.15556
+irl,Ireland,2003,58832.30607
+irl,Ireland,2004,61737.45623
+irl,Ireland,2005,63909.85596
+irl,Ireland,2006,65357.44119
+irl,Ireland,2007,66810.4223
+irl,Ireland,2008,62507.26896
+irl,Ireland,2009,58687.01334
+irl,Ireland,2010,59285.80833
+irn,Iran,2000,11078.79502
+irn,Iran,2001,11220.21075
+irn,Iran,2002,12020.63785
+irn,Iran,2003,12912.95251
+irn,Iran,2004,13212.9011
+irn,Iran,2005,13332.7353
+irn,Iran,2006,13683.97852
+irn,Iran,2007,14503.56106
+irn,Iran,2008,14299.90427
+irn,Iran,2009,14196.07393
+irn,Iran,2010,14737.15585
+irq,Iraq,2000,11077.40844
+irq,Iraq,2001,11281.38854
+irq,Iraq,2002,10419.00416
+irq,Iraq,2003,6643.82597
+irq,Iraq,2004,10009.42461
+irq,Iraq,2005,9965.0217
+irq,Iraq,2006,10505.07578
+irq,Iraq,2007,10821.91478
+irq,Iraq,2008,11510.66647
+irq,Iraq,2009,11483.00489
+irq,Iraq,2010,11816.84102
+isl,Iceland,2000,47246.03444
+isl,Iceland,2001,48512.34196
+isl,Iceland,2002,48372.8176
+isl,Iceland,2003,49126.5233
+isl,Iceland,2004,52559.42353
+isl,Iceland,2005,54980.31234
+isl,Iceland,2006,57117.16946
+isl,Iceland,2007,60501.51448
+isl,Iceland,2008,60768.62733
+isl,Iceland,2009,56013.04234
+isl,Iceland,2010,54588.97093
+isr,Israel,2000,33488.81062
+isr,Israel,2001,32762.75697
+isr,Israel,2002,32038.41724
+isr,Israel,2003,31879.17651
+isr,Israel,2004,32759.1433
+isr,Israel,2005,33568.67104
+isr,Israel,2006,34810.44561
+isr,Israel,2007,36342.26407
+isr,Israel,2008,36838.58616
+isr,Israel,2009,36410.47315
+isr,Israel,2010,37722.40999
+ita,Italy,2000,49342.92612
+ita,Italy,2001,50434.86202
+ita,Italy,2002,50612.1286
+ita,Italy,2003,50510.92632
+ita,Italy,2004,51002.70778
+ita,Italy,2005,51210.1026
+ita,Italy,2006,52029.1946
+ita,Italy,2007,52557.3651
+ita,Italy,2008,51693.55748
+ita,Italy,2009,48725.66832
+ita,Italy,2010,49301.69591
+jam,Jamaica,2000,9400.15259
+jam,Jamaica,2001,9485.24573
+jam,Jamaica,2002,9619.29863
+jam,Jamaica,2003,9930.79875
+jam,Jamaica,2004,10020.77669
+jam,Jamaica,2005,10069.94372
+jam,Jamaica,2006,10322.36829
+jam,Jamaica,2007,10432.74762
+jam,Jamaica,2008,10313.15241
+jam,Jamaica,2009,9833.36045
+jam,Jamaica,2010,9654.07238
+jor,Jordan,2000,8357.11725
+jor,Jordan,2001,8607.27196
+jor,Jordan,2002,8899.22011
+jor,Jordan,2003,9045.26045
+jor,Jordan,2004,9557.49136
+jor,Jordan,2005,10046.66254
+jor,Jordan,2006,10168.39047
+jor,Jordan,2007,10320.72267
+jor,Jordan,2008,10750.43681
+jor,Jordan,2009,10993.70439
+jor,Jordan,2010,10953.53763
+jpn,Japan,2000,39728.19279
+jpn,Japan,2001,39710.67857
+jpn,Japan,2002,39564.31383
+jpn,Japan,2003,40010.84597
+jpn,Japan,2004,40794.08013
+jpn,Japan,2005,41444.59908
+jpn,Japan,2006,41913.04913
+jpn,Japan,2007,42413.86819
+jpn,Japan,2008,41799.93643
+jpn,Japan,2009,39354.08421
+jpn,Japan,2010,40881.79724
+kaz,Kazakhstan,2000,12862.60587
+kaz,Kazakhstan,2001,14550.60782
+kaz,Kazakhstan,2002,15912.74277
+kaz,Kazakhstan,2003,17309.4469
+kaz,Kazakhstan,2004,18862.0876
+kaz,Kazakhstan,2005,20549.64174
+kaz,Kazakhstan,2006,22565.38931
+kaz,Kazakhstan,2007,24348.27497
+kaz,Kazakhstan,2008,24896.57281
+kaz,Kazakhstan,2009,24903.34199
+kaz,Kazakhstan,2010,26374.84077
+ken,Kenya,2000,3555.83431
+ken,Kenya,2001,3606.92492
+ken,Kenya,2002,3540.94796
+ken,Kenya,2003,3558.41524
+ken,Kenya,2004,3646.91912
+ken,Kenya,2005,3766.38292
+ken,Kenya,2006,3908.48133
+ken,Kenya,2007,4071.14989
+ken,Kenya,2008,3975.48846
+ken,Kenya,2009,3999.46025
+ken,Kenya,2010,4211.52463
+kgz,Kyrgyz Republic,2000,3730.63998
+kgz,Kyrgyz Republic,2001,3878.12216
+kgz,Kyrgyz Republic,2002,3829.19618
+kgz,Kyrgyz Republic,2003,4043.10627
+kgz,Kyrgyz Republic,2004,4262.81316
+kgz,Kyrgyz Republic,2005,4196.50495
+kgz,Kyrgyz Republic,2006,4270.37212
+kgz,Kyrgyz Republic,2007,4581.30527
+kgz,Kyrgyz Republic,2008,4908.8137
+kgz,Kyrgyz Republic,2009,4976.42441
+kgz,Kyrgyz Republic,2010,4876.47965
+khm,Cambodia,2000,1961.44747
+khm,Cambodia,2001,2065.2722
+khm,Cambodia,2002,2152.3577
+khm,Cambodia,2003,2325.43103
+khm,Cambodia,2004,2502.53676
+khm,Cambodia,2005,2787.71365
+khm,Cambodia,2006,3041.77375
+khm,Cambodia,2007,3305.02309
+khm,Cambodia,2008,3496.42884
+khm,Cambodia,2009,3582.53377
+khm,Cambodia,2010,3711.53751
+kir,Kiribati,2000,2505.66286
+kir,Kiribati,2001,2384.28348
+kir,Kiribati,2002,2372.64843
+kir,Kiribati,2003,2293.03555
+kir,Kiribati,2004,2227.16408
+kir,Kiribati,2005,2212.14122
+kir,Kiribati,2006,2280.04051
+kir,Kiribati,2007,2297.18898
+kir,Kiribati,2008,2179.61155
+kir,Kiribati,2009,2141.59941
+kir,Kiribati,2010,2119.64018
+kna,St. Kitts and Nevis,2000,20983.72711
+kna,St. Kitts and Nevis,2001,21721.90173
+kna,St. Kitts and Nevis,2002,21781.74987
+kna,St. Kitts and Nevis,2003,20727.10175
+kna,St. Kitts and Nevis,2004,21353.81277
+kna,St. Kitts and Nevis,2005,23227.34239
+kna,St. Kitts and Nevis,2006,23750.28261
+kna,St. Kitts and Nevis,2007,23685.70446
+kna,St. Kitts and Nevis,2008,26123.91089
+kna,St. Kitts and Nevis,2009,25079.80936
+kna,St. Kitts and Nevis,2010,24997.56725
+kor,South Korea,2000,25861.5996
+kor,South Korea,2001,26795.53081
+kor,South Korea,2002,28587.43844
+kor,South Korea,2003,29230.37327
+kor,South Korea,2004,30525.00934
+kor,South Korea,2005,31672.64627
+kor,South Korea,2006,33076.42929
+kor,South Korea,2007,34729.10397
+kor,South Korea,2008,35425.44575
+kor,South Korea,2009,35452.77854
+kor,South Korea,2010,37610.97291
+kwt,Kuwait,2000,58580.26386
+kwt,Kuwait,2001,57799.99596
+kwt,Kuwait,2002,58629.24067
+kwt,Kuwait,2003,67698.87165
+kwt,Kuwait,2004,73414.45772
+kwt,Kuwait,2005,78600.30407
+kwt,Kuwait,2006,80163.48958
+kwt,Kuwait,2007,80178.19205
+kwt,Kuwait,2008,77620.47674
+kwt,Kuwait,2009,68208.16378
+kwt,Kuwait,2010,62956.21532
+lao,Lao,2000,2916.10923
+lao,Lao,2001,3033.61249
+lao,Lao,2002,3163.07732
+lao,Lao,2003,3304.59077
+lao,Lao,2004,3464.16562
+lao,Lao,2005,3651.7154
+lao,Lao,2006,3880.73142
+lao,Lao,2007,4129.17689
+lao,Lao,2008,4379.65438
+lao,Lao,2009,4631.96746
+lao,Lao,2010,4946.10564
+lbn,Lebanon,2000,11315.07118
+lbn,Lebanon,2001,11634.75954
+lbn,Lebanon,2002,11930.2893
+lbn,Lebanon,2003,12201.25174
+lbn,Lebanon,2004,12864.28796
+lbn,Lebanon,2005,13041.6867
+lbn,Lebanon,2006,13040.91933
+lbn,Lebanon,2007,13987.73909
+lbn,Lebanon,2008,15001.4709
+lbn,Lebanon,2009,16297.40785
+lbn,Lebanon,2010,17390.7584
+lbr,Liberia,2000,1773.49234
+lbr,Liberia,2001,1809.79138
+lbr,Liberia,2002,1876.64189
+lbr,Liberia,2003,1290.02676
+lbr,Liberia,2004,1296.5855
+lbr,Liberia,2005,1309.06143
+lbr,Liberia,2006,1342.61658
+lbr,Liberia,2007,1402.31948
+lbr,Liberia,2008,1450.60369
+lbr,Liberia,2009,1486.86272
+lbr,Liberia,2010,1538.85083
+lby,Libya,2000,16980.38363
+lby,Libya,2001,16648.99624
+lby,Libya,2002,16355.17401
+lby,Libya,2003,18291.09457
+lby,Libya,2004,18855.45539
+lby,Libya,2005,20743.89301
+lby,Libya,2006,21719.57712
+lby,Libya,2007,22619.89506
+lby,Libya,2008,22178.26602
+lby,Libya,2009,20672.92354
+lby,Libya,2010,21109.96793
+lca,St. Lucia,2000,17094.41493
+lca,St. Lucia,2001,16544.95503
+lca,St. Lucia,2002,16666.96197
+lca,St. Lucia,2003,17441.56304
+lca,St. Lucia,2004,18770.48958
+lca,St. Lucia,2005,18740.06188
+lca,St. Lucia,2006,19947.63643
+lca,St. Lucia,2007,20314.52634
+lca,St. Lucia,2008,21350.20787
+lca,St. Lucia,2009,20775.71543
+lca,St. Lucia,2010,20849.05512
+lka,Sri Lanka,2000,6608.71259
+lka,Sri Lanka,2001,6381.1372
+lka,Sri Lanka,2002,6539.77854
+lka,Sri Lanka,2003,6854.39425
+lka,Sri Lanka,2004,7156.22946
+lka,Sri Lanka,2005,7533.6151
+lka,Sri Lanka,2006,8037.25742
+lka,Sri Lanka,2007,8505.18757
+lka,Sri Lanka,2008,8932.08535
+lka,Sri Lanka,2009,9173.15096
+lka,Sri Lanka,2010,9832.18622
+lso,Lesotho,2000,2018.82258
+lso,Lesotho,2001,2079.02974
+lso,Lesotho,2002,2084.95818
+lso,Lesotho,2003,2176.65739
+lso,Lesotho,2004,2217.41832
+lso,Lesotho,2005,2302.38253
+lso,Lesotho,2006,2400.48772
+lso,Lesotho,2007,2484.13606
+lso,Lesotho,2008,2597.78691
+lso,Lesotho,2009,2543.48624
+lso,Lesotho,2010,2651.37805
+ltu,Lithuania,2000,15572.75456
+ltu,Lithuania,2001,16741.67663
+ltu,Lithuania,2002,18034.14359
+ltu,Lithuania,2003,20124.46223
+ltu,Lithuania,2004,21703.07383
+ltu,Lithuania,2005,23794.49118
+ltu,Lithuania,2006,25998.13053
+ltu,Lithuania,2007,29260.05645
+ltu,Lithuania,2008,30369.42416
+ltu,Lithuania,2009,26184.70551
+ltu,Lithuania,2010,26887.49131
+lux,Luxembourg,2000,105744.8971
+lux,Luxembourg,2001,108404.5395
+lux,Luxembourg,2002,111622.4333
+lux,Luxembourg,2003,113887.9356
+lux,Luxembourg,2004,117865.5346
+lux,Luxembourg,2005,119947.1266
+lux,Luxembourg,2006,126076.8982
+lux,Luxembourg,2007,135296.0133
+lux,Luxembourg,2008,133542.6202
+lux,Luxembourg,2009,127891.4399
+lux,Luxembourg,2010,131432.0596
+lva,Latvia,2000,14631.5001
+lva,Latvia,2001,15755.35528
+lva,Latvia,2002,17128.81367
+lva,Latvia,2003,18734.42372
+lva,Latvia,2004,20570.08999
+lva,Latvia,2005,23183.29827
+lva,Latvia,2006,26380.36588
+lva,Latvia,2007,29365.76926
+lva,Latvia,2008,28681.14263
+lva,Latvia,2009,24505.49003
+lva,Latvia,2010,24119.73078
+mar,Morocco,2000,5262.19116
+mar,Morocco,2001,5571.15868
+mar,Morocco,2002,5681.19619
+mar,Morocco,2003,5935.52988
+mar,Morocco,2004,6109.49798
+mar,Morocco,2005,6201.10325
+mar,Morocco,2006,6572.15745
+mar,Morocco,2007,6685.63947
+mar,Morocco,2008,6948.25428
+mar,Morocco,2009,7088.24049
+mar,Morocco,2010,7210.63672
+mco,Monaco,2000,238547.0417
+mco,Monaco,2001,246826.2616
+mco,Monaco,2002,253119.6762
+mco,Monaco,2003,259620.0048
+mco,Monaco,2004,269933.6927
+mco,Monaco,2005,278689.2909
+mco,Monaco,2006,294763.3933
+mco,Monaco,2007,335747.8329
+mco,Monaco,2008,336887.0953
+mco,Monaco,2009,308897.2706
+mco,Monaco,2010,317914.6823
+mda,Moldova,2000,5439.47218
+mda,Moldova,2001,5807.35467
+mda,Moldova,2002,6301.55086
+mda,Moldova,2003,6766.93984
+mda,Moldova,2004,7320.24172
+mda,Moldova,2005,7928.45439
+mda,Moldova,2006,8376.23856
+mda,Moldova,2007,8695.70584
+mda,Moldova,2008,9446.53942
+mda,Moldova,2009,8944.8927
+mda,Moldova,2010,9649.95099
+mdg,Madagascar,2000,1694.67393
+mdg,Madagascar,2001,1745.16802
+mdg,Madagascar,2002,1486.11958
+mdg,Madagascar,2003,1586.25455
+mdg,Madagascar,2004,1623.16057
+mdg,Madagascar,2005,1652.10454
+mdg,Madagascar,2006,1691.25894
+mdg,Madagascar,2007,1736.46208
+mdg,Madagascar,2008,1798.6291
+mdg,Madagascar,2009,1675.25797
+mdg,Madagascar,2010,1635.24511
+mdv,Maldives,2000,13643.94781
+mdv,Maldives,2001,12884.92356
+mdv,Maldives,2002,13586.38972
+mdv,Maldives,2003,15196.64198
+mdv,Maldives,2004,15837.69504
+mdv,Maldives,2005,13823.02455
+mdv,Maldives,2006,16732.71966
+mdv,Maldives,2007,17375.84649
+mdv,Maldives,2008,18307.67501
+mdv,Maldives,2009,16218.08905
+mdv,Maldives,2010,16730.01442
+mex,Mexico,2000,19908.14321
+mex,Mexico,2001,19620.26506
+mex,Mexico,2002,19395.26617
+mex,Mexico,2003,19422.80593
+mex,Mexico,2004,19911.1135
+mex,Mexico,2005,20124.2296
+mex,Mexico,2006,20853.26453
+mex,Mexico,2007,21036.09314
+mex,Mexico,2008,20956.7633
+mex,Mexico,2009,19376.05357
+mex,Mexico,2010,20058.38548
+mhl,Marshall Islands,2000,3800.07744
+mhl,Marshall Islands,2001,4017.18911
+mhl,Marshall Islands,2002,4126.32541
+mhl,Marshall Islands,2003,4044.94902
+mhl,Marshall Islands,2004,4012.28804
+mhl,Marshall Islands,2005,4074.82182
+mhl,Marshall Islands,2006,4076.50248
+mhl,Marshall Islands,2007,4222.31016
+mhl,Marshall Islands,2008,3909.90973
+mhl,Marshall Islands,2009,4047.51962
+mhl,Marshall Islands,2010,4269.35843
+mkd,North Macedonia,2000,11809.58873
+mkd,North Macedonia,2001,11422.40041
+mkd,North Macedonia,2002,11686.62394
+mkd,North Macedonia,2003,11953.65794
+mkd,North Macedonia,2004,12570.3932
+mkd,North Macedonia,2005,13252.08051
+mkd,North Macedonia,2006,14028.64075
+mkd,North Macedonia,2007,15043.63907
+mkd,North Macedonia,2008,15983.2583
+mkd,North Macedonia,2009,16055.28825
+mkd,North Macedonia,2010,16730.16875
+mli,Mali,2000,1854.02231
+mli,Mali,2001,2085.90553
+mli,Mali,2002,2093.25341
+mli,Mali,2003,2217.92891
+mli,Mali,2004,2186.81189
+mli,Mali,2005,2280.77116
+mli,Mali,2006,2358.76971
+mli,Mali,2007,2378.00868
+mli,Mali,2008,2458.1025
+mli,Mali,2009,2498.01449
+mli,Mali,2010,2594.41565
+mlt,Malta,2000,30472.6794
+mlt,Malta,2001,30125.32912
+mlt,Malta,2002,30781.2392
+mlt,Malta,2003,31725.70052
+mlt,Malta,2004,31699.24739
+mlt,Malta,2005,32482.84961
+mlt,Malta,2006,33165.59803
+mlt,Malta,2007,34758.54591
+mlt,Malta,2008,36111.44129
+mlt,Malta,2009,35403.97747
+mlt,Malta,2010,37492.67548
+mmr,Myanmar,2000,1480.20467
+mmr,Myanmar,2001,1613.49953
+mmr,Myanmar,2002,1771.33976
+mmr,Myanmar,2003,1978.38482
+mmr,Myanmar,2004,2206.92628
+mmr,Myanmar,2005,2465.03768
+mmr,Myanmar,2006,2744.36713
+mmr,Myanmar,2007,3028.21296
+mmr,Myanmar,2008,3290.85083
+mmr,Myanmar,2009,3594.33403
+mmr,Myanmar,2010,3893.79031
+mne,Montenegro,2000,13282.74747
+mne,Montenegro,2001,13581.45852
+mne,Montenegro,2002,13976.90186
+mne,Montenegro,2003,14443.43883
+mne,Montenegro,2004,15216.20192
+mne,Montenegro,2005,15972.78646
+mne,Montenegro,2006,17449.70872
+mne,Montenegro,2007,18751.30328
+mne,Montenegro,2008,20145.93819
+mne,Montenegro,2009,18982.64833
+mne,Montenegro,2010,19481.40719
+mng,Mongolia,2000,5499.26802
+mng,Mongolia,2001,5659.42226
+mng,Mongolia,2002,5913.39851
+mng,Mongolia,2003,6305.11321
+mng,Mongolia,2004,6950.37134
+mng,Mongolia,2005,7418.6352
+mng,Mongolia,2006,7996.2096
+mng,Mongolia,2007,8729.25736
+mng,Mongolia,2008,9378.25723
+mng,Mongolia,2009,9101.86854
+mng,Mongolia,2010,9507.11882
+moz,Mozambique,2000,719.34845
+moz,Mozambique,2001,792.39659
+moz,Mozambique,2002,847.42533
+moz,Mozambique,2003,886.47313
+moz,Mozambique,2004,936.22742
+moz,Mozambique,2005,973.32303
+moz,Mozambique,2006,1043.9713
+moz,Mozambique,2007,1096.58921
+moz,Mozambique,2008,1142.8423
+moz,Mozambique,2009,1179.2234
+moz,Mozambique,2010,1224.23021
+mrt,Mauritania,2000,4556.78573
+mrt,Mauritania,2001,4479.34501
+mrt,Mauritania,2002,4486.13711
+mrt,Mauritania,2003,4733.72513
+mrt,Mauritania,2004,4896.03471
+mrt,Mauritania,2005,5238.92547
+mrt,Mauritania,2006,6101.8421
+mrt,Mauritania,2007,5888.90125
+mrt,Mauritania,2008,5746.05454
+mrt,Mauritania,2009,5608.36041
+mrt,Mauritania,2010,5605.76389
+mus,Mauritius,2000,14021.36627
+mus,Mauritius,2001,14267.12388
+mus,Mauritius,2002,14295.52068
+mus,Mauritius,2003,14934.18232
+mus,Mauritius,2004,15390.75057
+mus,Mauritius,2005,15487.53309
+mus,Mauritius,2006,16086.48209
+mus,Mauritius,2007,16859.11109
+mus,Mauritius,2008,17638.14144
+mus,Mauritius,2009,18117.4412
+mus,Mauritius,2010,18819.99841
+mwi,Malawi,2000,1246.68825
+mwi,Malawi,2001,1156.01263
+mwi,Malawi,2002,1145.60656
+mwi,Malawi,2003,1179.46015
+mwi,Malawi,2004,1210.29196
+mwi,Malawi,2005,1215.72811
+mwi,Malawi,2006,1237.46547
+mwi,Malawi,2007,1318.03456
+mwi,Malawi,2008,1377.884
+mwi,Malawi,2009,1449.27141
+mwi,Malawi,2010,1504.37514
+mys,Malaysia,2000,18455.11576
+mys,Malaysia,2001,18132.46258
+mys,Malaysia,2002,18678.23787
+mys,Malaysia,2003,19314.02394
+mys,Malaysia,2004,20166.7395
+mys,Malaysia,2005,20777.09389
+mys,Malaysia,2006,21466.88772
+mys,Malaysia,2007,22333.7585
+mys,Malaysia,2008,22924.91822
+mys,Malaysia,2009,22122.93767
+mys,Malaysia,2010,23307.96985
+nam,Namibia,2000,7874.98348
+nam,Namibia,2001,7796.34528
+nam,Namibia,2002,8027.2393
+nam,Namibia,2003,8225.77575
+nam,Namibia,2004,9116.47953
+nam,Namibia,2005,9234.0936
+nam,Namibia,2006,9764.89304
+nam,Namibia,2007,10156.50296
+nam,Namibia,2008,10283.26448
+nam,Namibia,2009,10165.05149
+nam,Namibia,2010,10614.62016
+ner,Niger,2000,1148.48705
+ner,Niger,2001,1194.89312
+ner,Niger,2002,1214.9214
+ner,Niger,2003,1207.39718
+ner,Niger,2004,1171.01571
+ner,Niger,2005,1216.43613
+ner,Niger,2006,1245.65818
+ner,Niger,2007,1241.91548
+ner,Niger,2008,1293.68022
+ner,Niger,2009,1273.85258
+ner,Niger,2010,1336.5641
+nga,Nigeria,2000,3226.14641
+nga,Nigeria,2001,3345.83079
+nga,Nigeria,2002,3767.95512
+nga,Nigeria,2003,3957.28466
+nga,Nigeria,2004,4220.82992
+nga,Nigeria,2005,4379.91111
+nga,Nigeria,2006,4525.52325
+nga,Nigeria,2007,4694.80547
+nga,Nigeria,2008,4872.93098
+nga,Nigeria,2009,5113.47496
+nga,Nigeria,2010,5359.51848
+nic,Nicaragua,2000,4710.4306
+nic,Nicaragua,2001,4812.59182
+nic,Nicaragua,2002,4813.51285
+nic,Nicaragua,2003,4898.9078
+nic,Nicaragua,2004,5119.93712
+nic,Nicaragua,2005,5290.82139
+nic,Nicaragua,2006,5451.78121
+nic,Nicaragua,2007,5664.51335
+nic,Nicaragua,2008,5789.17233
+nic,Nicaragua,2009,5530.86828
+nic,Nicaragua,2010,5701.1279
+nld,Netherlands,2000,55211.00112
+nld,Netherlands,2001,56177.87032
+nld,Netherlands,2002,56063.70601
+nld,Netherlands,2003,55971.60417
+nld,Netherlands,2004,57000.49232
+nld,Netherlands,2005,58119.36479
+nld,Netherlands,2006,60160.42039
+nld,Netherlands,2007,62432.47586
+nld,Netherlands,2008,63566.68986
+nld,Netherlands,2009,60980.28095
+nld,Netherlands,2010,61518.55401
+nor,Norway,2000,76788.74651
+nor,Norway,2001,78367.82866
+nor,Norway,2002,79347.25467
+nor,Norway,2003,79881.05934
+nor,Norway,2004,82786.9453
+nor,Norway,2005,84553.41831
+nor,Norway,2006,85988.98405
+nor,Norway,2007,87562.62169
+nor,Norway,2008,86795.5118
+nor,Norway,2009,83883.37384
+nor,Norway,2010,83256.78807
+npl,Nepal,2000,2326.07294
+npl,Nepal,2001,2401.67725
+npl,Nepal,2002,2368.99727
+npl,Nepal,2003,2428.772
+npl,Nepal,2004,2511.46651
+npl,Nepal,2005,2570.84456
+npl,Nepal,2006,2634.01895
+npl,Nepal,2007,2702.77225
+npl,Nepal,2008,2848.10016
+npl,Nepal,2009,2959.22635
+npl,Nepal,2010,3085.31407
+nru,Nauru,2000,9045.88119
+nru,Nauru,2001,8453.49239
+nru,Nauru,2002,7634.92083
+nru,Nauru,2003,7665.34369
+nru,Nauru,2004,7328.33621
+nru,Nauru,2005,7240.16555
+nru,Nauru,2006,7730.48873
+nru,Nauru,2007,6123.69092
+nru,Nauru,2008,7415.60076
+nru,Nauru,2009,7007.89149
+nru,Nauru,2010,6966.78567
+nzl,New Zealand,2000,35871.34674
+nzl,New Zealand,2001,36807.22838
+nzl,New Zealand,2002,37904.08537
+nzl,New Zealand,2003,38935.26133
+nzl,New Zealand,2004,39957.50869
+nzl,New Zealand,2005,40817.84481
+nzl,New Zealand,2006,41455.34941
+nzl,New Zealand,2007,42350.36139
+nzl,New Zealand,2008,41573.46249
+nzl,New Zealand,2009,41140.53326
+nzl,New Zealand,2010,41270.92851
+omn,Oman,2000,40524.4461
+omn,Oman,2001,42340.35105
+omn,Oman,2002,41867.99254
+omn,Oman,2003,40743.64932
+omn,Oman,2004,41072.01082
+omn,Oman,2005,41481.61379
+omn,Oman,2006,42653.91573
+omn,Oman,2007,43898.2691
+omn,Oman,2008,46798.95737
+omn,Oman,2009,48443.3598
+omn,Oman,2010,48191.61451
+pak,Pakistan,2000,3621.88037
+pak,Pakistan,2001,3640.97303
+pak,Pakistan,2002,3646.92199
+pak,Pakistan,2003,3751.99908
+pak,Pakistan,2004,3939.02923
+pak,Pakistan,2005,4114.79452
+pak,Pakistan,2006,4248.39333
+pak,Pakistan,2007,4306.74362
+pak,Pakistan,2008,4268.21132
+pak,Pakistan,2009,4288.37383
+pak,Pakistan,2010,4228.78177
+pan,Panama,2000,14371.4668
+pan,Panama,2001,14249.01225
+pan,Panama,2002,14350.55017
+pan,Panama,2003,14811.56391
+pan,Panama,2004,15741.34696
+pan,Panama,2005,16743.71687
+pan,Panama,2006,18075.76479
+pan,Panama,2007,20109.67673
+pan,Panama,2008,21790.55657
+pan,Panama,2009,21786.09268
+pan,Panama,2010,22739.11062
+per,Peru,2000,7724.22627
+per,Peru,2001,7663.7208
+per,Peru,2002,7981.43617
+per,Peru,2003,8220.07656
+per,Peru,2004,8537.15543
+per,Peru,2005,8986.11141
+per,Peru,2006,9578.48689
+per,Peru,2007,10310.62675
+per,Peru,2008,11168.72285
+per,Peru,2009,11212.67064
+per,Peru,2010,12059.01802
+phl,Philippines,2000,4827.84656
+phl,Philippines,2001,4861.25528
+phl,Philippines,2002,4934.5461
+phl,Philippines,2003,5076.67025
+phl,Philippines,2004,5298.45613
+phl,Philippines,2005,5447.69536
+phl,Philippines,2006,5630.26197
+phl,Philippines,2007,5882.26257
+phl,Philippines,2008,6016.67532
+phl,Philippines,2009,5980.50897
+phl,Philippines,2010,6273.03928
+plw,Palau,2000,15586.24569
+plw,Palau,2001,16425.81813
+plw,Palau,2002,17071.35331
+plw,Palau,2003,16377.65552
+plw,Palau,2004,16893.73505
+plw,Palau,2005,17474.70511
+plw,Palau,2006,17615.35108
+plw,Palau,2007,18177.88694
+plw,Palau,2008,17436.43087
+plw,Palau,2009,16420.39584
+plw,Palau,2010,16530.84558
+png,Papua New Guinea,2000,3350.12137
+png,Papua New Guinea,2001,3237.16538
+png,Papua New Guinea,2002,3127.237
+png,Papua New Guinea,2003,3091.31069
+png,Papua New Guinea,2004,3072.34331
+png,Papua New Guinea,2005,3161.25688
+png,Papua New Guinea,2006,3218.72622
+png,Papua New Guinea,2007,3363.92381
+png,Papua New Guinea,2008,3246.19449
+png,Papua New Guinea,2009,3356.31321
+png,Papua New Guinea,2010,3579.17141
+pol,Poland,2000,18334.49982
+pol,Poland,2001,18612.30925
+pol,Poland,2002,19019.6872
+pol,Poland,2003,19741.60119
+pol,Poland,2004,20793.47082
+pol,Poland,2005,21513.65483
+pol,Poland,2006,22886.21627
+pol,Poland,2007,24468.67846
+pol,Poland,2008,25549.19487
+pol,Poland,2009,26206.23389
+pol,Poland,2010,27112.13338
+prk,North Korea,2000,1672.45101
+prk,North Korea,2001,1711.88224
+prk,North Korea,2002,1710.91213
+prk,North Korea,2003,1721.85746
+prk,North Korea,2004,1737.6171
+prk,North Korea,2005,1782.7741
+prk,North Korea,2006,1745.03059
+prk,North Korea,2007,1706.62299
+prk,North Korea,2008,1745.35003
+prk,North Korea,2009,1712.06133
+prk,North Korea,2010,1686.7512
+prt,Portugal,2000,34490.82
+prt,Portugal,2001,34989.77279
+prt,Portugal,2002,35139.00933
+prt,Portugal,2003,34749.20143
+prt,Portugal,2004,35351.62552
+prt,Portugal,2005,35622.73481
+prt,Portugal,2006,36193.11836
+prt,Portugal,2007,37083.19514
+prt,Portugal,2008,37198.64961
+prt,Portugal,2009,36050.61782
+prt,Portugal,2010,36703.11402
+pry,Paraguay,2000,9409.92057
+pry,Paraguay,2001,9266.47124
+pry,Paraguay,2002,9333.5949
+pry,Paraguay,2003,9650.79944
+pry,Paraguay,2004,9961.97786
+pry,Paraguay,2005,10098.54606
+pry,Paraguay,2006,10512.34007
+pry,Paraguay,2007,11014.72226
+pry,Paraguay,2008,11660.62392
+pry,Paraguay,2009,11550.16197
+pry,Paraguay,2010,12738.57656
+pse,Palestine,2000,4829.81047
+pse,Palestine,2001,4226.68901
+pse,Palestine,2002,3572.22475
+pse,Palestine,2003,3936.54946
+pse,Palestine,2004,4603.27791
+pse,Palestine,2005,4964.9129
+pse,Palestine,2006,4760.95564
+pse,Palestine,2007,4805.25922
+pse,Palestine,2008,5004.56469
+pse,Palestine,2009,5279.29973
+pse,Palestine,2010,5432.24363
+qat,Qatar,2000,87743.72295
+qat,Qatar,2001,88501.85563
+qat,Qatar,2002,91956.39756
+qat,Qatar,2003,92159.9721
+qat,Qatar,2004,106340.7024
+qat,Qatar,2005,107403.6527
+qat,Qatar,2006,115662.0324
+qat,Qatar,2007,110412.7366
+qat,Qatar,2008,110060.3064
+qat,Qatar,2009,108980.1659
+qat,Qatar,2010,129045.0056
+rou,Romania,2000,13926.91126
+rou,Romania,2001,15029.22008
+rou,Romania,2002,16321.47101
+rou,Romania,2003,16997.02513
+rou,Romania,2004,18988.32604
+rou,Romania,2005,20120.47984
+rou,Romania,2006,22014.45635
+rou,Romania,2007,24083.33279
+rou,Romania,2008,26871.97991
+rou,Romania,2009,25687.0848
+rou,Romania,2010,24900.23033
+rus,Russia,2000,19109.81254
+rus,Russia,2001,20330.95747
+rus,Russia,2002,21542.91112
+rus,Russia,2003,23377.38743
+rus,Russia,2004,25313.33615
+rus,Russia,2005,27180.8808
+rus,Russia,2006,29644.43878
+rus,Russia,2007,32352.78407
+rus,Russia,2008,34169.8408
+rus,Russia,2009,31584.80031
+rus,Russia,2010,33063.58594
+rwa,Rwanda,2000,1060.64365
+rwa,Rwanda,2001,1131.0756
+rwa,Rwanda,2002,1253.68904
+rwa,Rwanda,2003,1246.67796
+rwa,Rwanda,2004,1298.40345
+rwa,Rwanda,2005,1377.21062
+rwa,Rwanda,2006,1459.38743
+rwa,Rwanda,2007,1524.63641
+rwa,Rwanda,2008,1646.69354
+rwa,Rwanda,2009,1701.97716
+rwa,Rwanda,2010,1779.15851
+sau,Saudi Arabia,2000,51649.9186
+sau,Saudi Arabia,2001,49984.6681
+sau,Saudi Arabia,2002,47847.63417
+sau,Saudi Arabia,2003,50402.0537
+sau,Saudi Arabia,2004,52846.12676
+sau,Saudi Arabia,2005,54038.83725
+sau,Saudi Arabia,2006,53859.94698
+sau,Saudi Arabia,2007,53086.86599
+sau,Saudi Arabia,2008,54355.42282
+sau,Saudi Arabia,2009,51777.98146
+sau,Saudi Arabia,2010,54911.54752
+sdn,Sudan,2000,3417.72691
+sdn,Sudan,2001,3566.51472
+sdn,Sudan,2002,3703.35497
+sdn,Sudan,2003,3861.226
+sdn,Sudan,2004,3970.10127
+sdn,Sudan,2005,4104.40877
+sdn,Sudan,2006,4274.67822
+sdn,Sudan,2007,4411.58603
+sdn,Sudan,2008,4451.99211
+sdn,Sudan,2009,4195.98319
+sdn,Sudan,2010,4219.83691
+sen,Senegal,2000,3025.6101
+sen,Senegal,2001,3085.2906
+sen,Senegal,2002,3019.10643
+sen,Senegal,2003,3120.05929
+sen,Senegal,2004,3197.14275
+sen,Senegal,2005,3265.85849
+sen,Senegal,2006,3270.7774
+sen,Senegal,2007,3295.20445
+sen,Senegal,2008,3344.52397
+sen,Senegal,2009,3363.26324
+sen,Senegal,2010,3403.56707
+sgp,Singapore,2000,65418.14388
+sgp,Singapore,2001,63377.94302
+sgp,Singapore,2002,65510.59032
+sgp,Singapore,2003,69590.25317
+sgp,Singapore,2004,75877.95335
+sgp,Singapore,2005,80017.08023
+sgp,Singapore,2006,85005.30868
+sgp,Singapore,2007,89389.31469
+sgp,Singapore,2008,86768.19679
+sgp,Singapore,2009,84585.75269
+sgp,Singapore,2010,95456.18931
+slb,Solomon Islands,2000,2297.6439
+slb,Solomon Islands,2001,2070.03378
+slb,Solomon Islands,2002,1971.19788
+slb,Solomon Islands,2003,2058.41971
+slb,Solomon Islands,2004,2169.68067
+slb,Solomon Islands,2005,2284.10999
+slb,Solomon Islands,2006,2340.83468
+slb,Solomon Islands,2007,2387.51606
+slb,Solomon Islands,2008,2492.18037
+slb,Solomon Islands,2009,2513.16372
+slb,Solomon Islands,2010,2682.28529
+sle,Sierra Leone,2000,1824.79416
+sle,Sierra Leone,2001,1673.66366
+sle,Sierra Leone,2002,2008.84405
+sle,Sierra Leone,2003,2122.10412
+sle,Sierra Leone,2004,2196.45543
+sle,Sierra Leone,2005,2243.41579
+sle,Sierra Leone,2006,2299.45302
+sle,Sierra Leone,2007,2349.59932
+sle,Sierra Leone,2008,2387.68198
+sle,Sierra Leone,2009,2370.01474
+sle,Sierra Leone,2010,2461.98105
+slv,El Salvador,2000,7497.59169
+slv,El Salvador,2001,7558.43492
+slv,El Salvador,2002,7676.18413
+slv,El Salvador,2003,7797.59635
+slv,El Salvador,2004,7872.2645
+slv,El Salvador,2005,8088.6992
+slv,El Salvador,2006,8440.24662
+slv,El Salvador,2007,8588.87985
+slv,El Salvador,2008,8733.46566
+slv,El Salvador,2009,8508.9752
+slv,El Salvador,2010,8648.92983
+smr,San Marino,2000,80165.10474
+smr,San Marino,2001,83242.7805
+smr,San Marino,2002,82129.89427
+smr,San Marino,2003,83902.87492
+smr,San Marino,2004,82905.94827
+smr,San Marino,2005,83461.24027
+smr,San Marino,2006,85275.61041
+smr,San Marino,2007,88024.25407
+smr,San Marino,2008,85986.32619
+smr,San Marino,2009,73467.45202
+smr,San Marino,2010,68669.25265
+som,Somalia,2000,716.42269
+som,Somalia,2001,733.19436
+som,Somalia,2002,756.37389
+som,Somalia,2003,781.35822
+som,Somalia,2004,804.23113
+som,Somalia,2005,829.94429
+som,Somalia,2006,855.56388
+som,Somalia,2007,884.12801
+som,Somalia,2008,915.86207
+som,Somalia,2009,953.8074
+som,Somalia,2010,994.86846
+srb,Serbia,2000,10614.4698
+srb,Serbia,2001,11418.6831
+srb,Serbia,2002,12260.62781
+srb,Serbia,2003,12927.99991
+srb,Serbia,2004,13925.98811
+srb,Serbia,2005,14857.66651
+srb,Serbia,2006,15571.51567
+srb,Serbia,2007,16904.35045
+srb,Serbia,2008,17908.02822
+srb,Serbia,2009,17456.40097
+srb,Serbia,2010,17840.4348
+ssd,South Sudan,2000,701.20667
+ssd,South Sudan,2001,696.29345
+ssd,South Sudan,2002,696.00116
+ssd,South Sudan,2003,695.67877
+ssd,South Sudan,2004,694.19612
+ssd,South Sudan,2005,691.5774
+ssd,South Sudan,2006,685.61683
+ssd,South Sudan,2007,680.81284
+ssd,South Sudan,2008,676.04252
+ssd,South Sudan,2009,671.30562
+ssd,South Sudan,2010,665.518
+stp,Sao Tome and Principe,2000,3711.08247
+stp,Sao Tome and Principe,2001,3776.45593
+stp,Sao Tome and Principe,2002,3822.2203
+stp,Sao Tome and Principe,2003,4048.06029
+stp,Sao Tome and Principe,2004,4107.39949
+stp,Sao Tome and Principe,2005,4292.15451
+stp,Sao Tome and Principe,2006,4578.84967
+stp,Sao Tome and Principe,2007,4648.90078
+stp,Sao Tome and Principe,2008,4842.5292
+stp,Sao Tome and Principe,2009,4903.61402
+stp,Sao Tome and Principe,2010,4882.04796
+sur,Suriname,2000,15730.67361
+sur,Suriname,2001,16124.6014
+sur,Suriname,2002,16306.29235
+sur,Suriname,2003,17057.51916
+sur,Suriname,2004,18291.02133
+sur,Suriname,2005,18964.50522
+sur,Suriname,2006,19898.56044
+sur,Suriname,2007,20733.97283
+sur,Suriname,2008,21400.36492
+sur,Suriname,2009,21847.62245
+sur,Suriname,2010,22772.47545
+svk,Slovak Republic,2000,18368.86038
+svk,Slovak Republic,2001,18941.46331
+svk,Slovak Republic,2002,19778.75141
+svk,Slovak Republic,2003,20755.65526
+svk,Slovak Republic,2004,21867.34973
+svk,Slovak Republic,2005,23279.38612
+svk,Slovak Republic,2006,25341.72937
+svk,Slovak Republic,2007,28069.62684
+svk,Slovak Republic,2008,29548.18415
+svk,Slovak Republic,2009,27881.80086
+svk,Slovak Republic,2010,29745.86139
+svn,Slovenia,2000,29866.49515
+svn,Slovenia,2001,30671.05794
+svn,Slovenia,2002,31664.56603
+svn,Slovenia,2003,32653.76114
+svn,Slovenia,2004,34125.64025
+svn,Slovenia,2005,35403.55285
+svn,Slovenia,2006,37396.28215
+svn,Slovenia,2007,39879.39188
+svn,Slovenia,2008,41191.95491
+svn,Slovenia,2009,37763.60268
+svn,Slovenia,2010,38065.73615
+swe,Sweden,2000,47554.61213
+swe,Sweden,2001,48121.13764
+swe,Sweden,2002,49124.55863
+swe,Sweden,2003,49935.32894
+swe,Sweden,2004,51863.66652
+swe,Sweden,2005,53149.96078
+swe,Sweden,2006,55344.698
+swe,Sweden,2007,56739.80248
+swe,Sweden,2008,55800.78651
+swe,Sweden,2009,52966.61982
+swe,Sweden,2010,55527.93981
+swz,Eswatini,2000,6238.11593
+swz,Eswatini,2001,6253.49065
+swz,Eswatini,2002,6466.889
+swz,Eswatini,2003,6675.4961
+swz,Eswatini,2004,6869.88342
+swz,Eswatini,2005,7234.23245
+swz,Eswatini,2006,7620.11392
+swz,Eswatini,2007,7904.88179
+swz,Eswatini,2008,7916.44946
+swz,Eswatini,2009,7975.60776
+swz,Eswatini,2010,8210.69699
+syc,Seychelles,2000,20423.05769
+syc,Seychelles,2001,19994.93405
+syc,Seychelles,2002,19742.58721
+syc,Seychelles,2003,18790.13164
+syc,Seychelles,2004,18355.37732
+syc,Seychelles,2005,19941.61082
+syc,Seychelles,2006,21404.71221
+syc,Seychelles,2007,23201.50044
+syc,Seychelles,2008,22069.98573
+syc,Seychelles,2009,21409.57396
+syc,Seychelles,2010,21708.75545
+syr,Syria,2000,8116.3478
+syr,Syria,2001,7964.55343
+syr,Syria,2002,8040.54924
+syr,Syria,2003,8286.14301
+syr,Syria,2004,8601.33902
+syr,Syria,2005,8868.48394
+syr,Syria,2006,8904.42055
+syr,Syria,2007,8838.83743
+syr,Syria,2008,8901.19344
+syr,Syria,2009,9276.9505
+syr,Syria,2010,9546.56049
+tcd,Chad,2000,1407.47073
+tcd,Chad,2001,1531.79032
+tcd,Chad,2002,1617.6377
+tcd,Chad,2003,1795.65899
+tcd,Chad,2004,2311.35318
+tcd,Chad,2005,2607.45074
+tcd,Chad,2006,2520.23726
+tcd,Chad,2007,2573.03387
+tcd,Chad,2008,2573.74658
+tcd,Chad,2009,2465.52669
+tcd,Chad,2010,2717.50763
+tgo,Togo,2000,2005.61984
+tgo,Togo,2001,1975.28003
+tgo,Togo,2002,1998.77466
+tgo,Togo,2003,2088.43982
+tgo,Togo,2004,2033.905
+tgo,Togo,2005,1908.64738
+tgo,Togo,2006,1914.8838
+tgo,Togo,2007,1847.634
+tgo,Togo,2008,1872.596
+tgo,Togo,2009,1924.85687
+tgo,Togo,2010,1988.95211
+tha,Thailand,2000,11791.25763
+tha,Thailand,2001,12050.57636
+tha,Thailand,2002,12644.97588
+tha,Thailand,2003,13405.24847
+tha,Thailand,2004,14099.036
+tha,Thailand,2005,14542.32913
+tha,Thailand,2006,15118.03226
+tha,Thailand,2007,15792.72969
+tha,Thailand,2008,15923.78276
+tha,Thailand,2009,15680.89203
+tha,Thailand,2010,16730.36979
+tjk,Tajikistan,2000,1470.93456
+tjk,Tajikistan,2001,1568.5068
+tjk,Tajikistan,2002,1690.09226
+tjk,Tajikistan,2003,1824.99523
+tjk,Tajikistan,2004,1959.233
+tjk,Tajikistan,2005,2036.19774
+tjk,Tajikistan,2006,2122.02333
+tjk,Tajikistan,2007,2227.48611
+tjk,Tajikistan,2008,2340.1787
+tjk,Tajikistan,2009,2365.79447
+tjk,Tajikistan,2010,2449.27359
+tkm,Turkmenistan,2000,5175.88159
+tkm,Turkmenistan,2001,5397.7409
+tkm,Turkmenistan,2002,5385.14927
+tkm,Turkmenistan,2003,5500.60305
+tkm,Turkmenistan,2004,5673.20976
+tkm,Turkmenistan,2005,6242.06214
+tkm,Turkmenistan,2006,6740.57784
+tkm,Turkmenistan,2007,7280.47327
+tkm,Turkmenistan,2008,8113.97502
+tkm,Turkmenistan,2009,8354.67656
+tkm,Turkmenistan,2010,8842.33284
+tls,Timor-Leste,2000,3862.79702
+tls,Timor-Leste,2001,4116.4868
+tls,Timor-Leste,2002,3562.75861
+tls,Timor-Leste,2003,3340.92603
+tls,Timor-Leste,2004,3437.77695
+tls,Timor-Leste,2005,3501.73256
+tls,Timor-Leste,2006,3289.19065
+tls,Timor-Leste,2007,3450.57971
+tls,Timor-Leste,2008,3669.87492
+tls,Timor-Leste,2009,3858.85057
+tls,Timor-Leste,2010,4049.18501
+ton,Tonga,2000,5856.22403
+ton,Tonga,2001,5919.77403
+ton,Tonga,2002,6133.559
+ton,Tonga,2003,6108.34797
+ton,Tonga,2004,5954.06195
+ton,Tonga,2005,5881.36707
+ton,Tonga,2006,5715.82213
+ton,Tonga,2007,5534.16673
+ton,Tonga,2008,5774.08679
+ton,Tonga,2009,5466.85025
+ton,Tonga,2010,5488.7504
+tto,Trinidad and Tobago,2000,20419.6703
+tto,Trinidad and Tobago,2001,21076.82994
+tto,Trinidad and Tobago,2002,22538.64603
+tto,Trinidad and Tobago,2003,25556.20509
+tto,Trinidad and Tobago,2004,27339.7768
+tto,Trinidad and Tobago,2005,29968.21168
+tto,Trinidad and Tobago,2006,33727.52144
+tto,Trinidad and Tobago,2007,35087.40934
+tto,Trinidad and Tobago,2008,36032.79313
+tto,Trinidad and Tobago,2009,34327.2438
+tto,Trinidad and Tobago,2010,35190.21666
+tun,Tunisia,2000,9263.8496
+tun,Tunisia,2001,9515.24818
+tun,Tunisia,2002,9533.92966
+tun,Tunisia,2003,9875.5455
+tun,Tunisia,2004,10373.9473
+tun,Tunisia,2005,10627.71843
+tun,Tunisia,2006,11069.39488
+tun,Tunisia,2007,11680.26312
+tun,Tunisia,2008,12037.15196
+tun,Tunisia,2009,12254.22964
+tun,Tunisia,2010,12458.25735
+tur,Turkey,2000,14897.78792
+tur,Turkey,2001,13831.56944
+tur,Turkey,2002,14567.44418
+tur,Turkey,2003,15222.1931
+tur,Turkey,2004,16504.40556
+tur,Turkey,2005,17775.43114
+tur,Turkey,2006,18797.86982
+tur,Turkey,2007,19682.39627
+tur,Turkey,2008,19573.32978
+tur,Turkey,2009,18347.09957
+tur,Turkey,2010,19564.7889
+tuv,Tuvalu,2000,3770.50836
+tuv,Tuvalu,2001,3754.38917
+tuv,Tuvalu,2002,4079.53425
+tuv,Tuvalu,2003,3870.52057
+tuv,Tuvalu,2004,3733.77015
+tuv,Tuvalu,2005,3513.28337
+tuv,Tuvalu,2006,3551.787
+tuv,Tuvalu,2007,3752.45208
+tuv,Tuvalu,2008,3945.48632
+tuv,Tuvalu,2009,3644.94159
+tuv,Tuvalu,2010,3506.06023
+tza,Tanzania,2000,1792.82437
+tza,Tanzania,2001,1861.41533
+tza,Tanzania,2002,1951.57594
+tza,Tanzania,2003,2035.56231
+tza,Tanzania,2004,2137.31153
+tza,Tanzania,2005,2239.90235
+tza,Tanzania,2006,2324.16223
+tza,Tanzania,2007,2420.07714
+tza,Tanzania,2008,2492.53135
+tza,Tanzania,2009,2561.36835
+tza,Tanzania,2010,2654.80347
+uga,Uganda,2000,1501.54961
+uga,Uganda,2001,1536.69035
+uga,Uganda,2002,1613.87079
+uga,Uganda,2003,1662.0518
+uga,Uganda,2004,1718.80882
+uga,Uganda,2005,1776.84593
+uga,Uganda,2006,1904.85683
+uga,Uganda,2007,2003.15025
+uga,Uganda,2008,2113.76498
+uga,Uganda,2009,2190.48073
+uga,Uganda,2010,2244.60595
+ukr,Ukraine,2000,9778.67964
+ukr,Ukraine,2001,10828.82636
+ukr,Ukraine,2002,11593.84214
+ukr,Ukraine,2003,12881.9868
+ukr,Ukraine,2004,14596.33258
+ukr,Ukraine,2005,15258.93136
+ukr,Ukraine,2006,16612.22621
+ukr,Ukraine,2007,18151.64989
+ukr,Ukraine,2008,18740.32581
+ukr,Ukraine,2009,16035.32827
+ukr,Ukraine,2010,16811.79492
+ury,Uruguay,2000,18556.85792
+ury,Uruguay,2001,17808.48984
+ury,Uruguay,2002,16412.79634
+ury,Uruguay,2003,16546.88123
+ury,Uruguay,2004,17380.4423
+ury,Uruguay,2005,18678.61672
+ury,Uruguay,2006,19446.19417
+ury,Uruguay,2007,20707.35148
+ury,Uruguay,2008,22177.22099
+ury,Uruguay,2009,23093.63076
+ury,Uruguay,2010,24879.83502
+usa,USA,2000,55889.51752
+usa,USA,2001,55783.75337
+usa,USA,2002,56127.43794
+usa,USA,2003,57114.90269
+usa,USA,2004,58672.14582
+usa,USA,2005,60060.46474
+usa,USA,2006,61043.40958
+usa,USA,2007,61578.56309
+usa,USA,2008,60971.05175
+usa,USA,2009,58796.53195
+usa,USA,2010,59789.41291
+uzb,Uzbekistan,2000,3717.41589
+uzb,Uzbekistan,2001,3784.66799
+uzb,Uzbekistan,2002,3847.70134
+uzb,Uzbekistan,2003,3923.88189
+uzb,Uzbekistan,2004,4126.5675
+uzb,Uzbekistan,2005,4320.94278
+uzb,Uzbekistan,2006,4545.7087
+uzb,Uzbekistan,2007,4868.67484
+uzb,Uzbekistan,2008,5188.36176
+uzb,Uzbekistan,2009,5477.39831
+uzb,Uzbekistan,2010,5760.80512
+vct,St. Vincent and the Grenadines,2000,10013.41602
+vct,St. Vincent and the Grenadines,2001,10188.54185
+vct,St. Vincent and the Grenadines,2002,10753.63244
+vct,St. Vincent and the Grenadines,2003,11497.85129
+vct,St. Vincent and the Grenadines,2004,11995.96585
+vct,St. Vincent and the Grenadines,2005,12329.99452
+vct,St. Vincent and the Grenadines,2006,13243.91913
+vct,St. Vincent and the Grenadines,2007,13738.57139
+vct,St. Vincent and the Grenadines,2008,13857.86634
+vct,St. Vincent and the Grenadines,2009,13725.31295
+vct,St. Vincent and the Grenadines,2010,13175.72302
+ven,Venezuela,2000,12454.43236
+ven,Venezuela,2001,12833.99055
+ven,Venezuela,2002,11593.79182
+ven,Venezuela,2003,10648.08192
+ven,Venezuela,2004,12628.01445
+ven,Venezuela,2005,14034.5749
+ven,Venezuela,2006,15544.30445
+ven,Venezuela,2007,16992.37514
+ven,Venezuela,2008,17866.42605
+ven,Venezuela,2009,17067.05407
+ven,Venezuela,2010,16695.002
+vnm,Vietnam,2000,4250.45395
+vnm,Vietnam,2001,4477.15881
+vnm,Vietnam,2002,4722.82509
+vnm,Vietnam,2003,5008.5529
+vnm,Vietnam,2004,5344.44392
+vnm,Vietnam,2005,5705.39302
+vnm,Vietnam,2006,6037.17638
+vnm,Vietnam,2007,6370.74245
+vnm,Vietnam,2008,6626.55947
+vnm,Vietnam,2009,6897.38392
+vnm,Vietnam,2010,7274.73311
+vut,Vanuatu,2000,3400.34487
+vut,Vanuatu,2001,3198.35345
+vut,Vanuatu,2002,2952.50727
+vut,Vanuatu,2003,2998.65223
+vut,Vanuatu,2004,3037.30966
+vut,Vanuatu,2005,3116.25682
+vut,Vanuatu,2006,3293.3842
+vut,Vanuatu,2007,3303.71983
+vut,Vanuatu,2008,3396.27739
+vut,Vanuatu,2009,3404.38083
+vut,Vanuatu,2010,3359.84955
+wsm,Samoa,2000,4786.98319
+wsm,Samoa,2001,5082.10151
+wsm,Samoa,2002,5308.03796
+wsm,Samoa,2003,5535.14333
+wsm,Samoa,2004,5671.08845
+wsm,Samoa,2005,5994.51432
+wsm,Samoa,2006,6080.80838
+wsm,Samoa,2007,6075.11858
+wsm,Samoa,2008,6220.72912
+wsm,Samoa,2009,6119.03683
+wsm,Samoa,2010,6427.31156
+yem,Yemen,2000,2925.61188
+yem,Yemen,2001,2972.30339
+yem,Yemen,2002,3008.55679
+yem,Yemen,2003,3053.03487
+yem,Yemen,2004,3126.5557
+yem,Yemen,2005,3262.42885
+yem,Yemen,2006,3322.37032
+yem,Yemen,2007,3380.10829
+yem,Yemen,2008,3426.73172
+yem,Yemen,2009,3439.29712
+yem,Yemen,2010,3603.03
+zaf,South Africa,2000,11037.87368
+zaf,South Africa,2001,11277.16993
+zaf,South Africa,2002,11617.57225
+zaf,South Africa,2003,11870.87162
+zaf,South Africa,2004,12312.62672
+zaf,South Africa,2005,12853.29549
+zaf,South Africa,2006,13452.90444
+zaf,South Africa,2007,14037.25886
+zaf,South Africa,2008,14324.90593
+zaf,South Africa,2009,13936.02189
+zaf,South Africa,2010,14182.33428
+zmb,Zambia,2000,2173.01609
+zmb,Zambia,2001,2233.6768
+zmb,Zambia,2002,2276.69859
+zmb,Zambia,2003,2372.1238
+zmb,Zambia,2004,2469.0897
+zmb,Zambia,2005,2569.15938
+zmb,Zambia,2006,2683.23992
+zmb,Zambia,2007,2808.6142
+zmb,Zambia,2008,2919.80288
+zmb,Zambia,2009,3073.64995
+zmb,Zambia,2010,3266.50749
+zwe,Zimbabwe,2000,3888.44839
+zwe,Zimbabwe,2001,3928.39321
+zwe,Zimbabwe,2002,3571.02598
+zwe,Zimbabwe,2003,2949.25001
+zwe,Zimbabwe,2004,2762.35658
+zwe,Zimbabwe,2005,2589.93892
+zwe,Zimbabwe,2006,2482.77583
+zwe,Zimbabwe,2007,2372.23665
+zwe,Zimbabwe,2008,1938.0725
+zwe,Zimbabwe,2009,2169.48008
+zwe,Zimbabwe,2010,2563.47835

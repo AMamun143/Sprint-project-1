@@ -12,37 +12,15 @@ print("Loading tidy datasets...")
 tidy_mortality = pd.read_csv('./data/preprocessed/tidy_mortality_data.csv')
 tidy_gdp = pd.read_csv('./data/preprocessed/tidy_gdp_data.csv')
 
-# Create a mapping from geo codes to country names
-# This will be used to add a 'name' column
-country_names = {
-    'USA': 'United States',
-    'CAN': 'Canada',
-    'MEX': 'Mexico',
-    'GBR': 'United Kingdom',
-    'FRA': 'France',
-    'DEU': 'Germany',
-    'ITA': 'Italy',
-    'ESP': 'Spain',
-    'BRA': 'Brazil',
-    'IND': 'India',
-    'CHN': 'China',
-    'JPN': 'Japan',
-    'AUS': 'Australia',
-    'ZAF': 'South Africa',
-    'NGA': 'Nigeria'
-}
-
 # Merge the datasets on geo and year
+# Both datasets already have 'name' column, so we'll use the one from mortality
 print("Merging mortality and GDP data...")
 merged_data = pd.merge(
-    tidy_mortality,
-    tidy_gdp,
+    tidy_mortality[['geo', 'name', 'year', 'mortality_rate']],
+    tidy_gdp[['geo', 'year', 'gdpcapita']],
     on=['geo', 'year'],
     how='inner'  # Inner join to keep only records present in both datasets
 )
-
-# Add the name column based on geo code
-merged_data['name'] = merged_data['geo'].map(country_names)
 
 # Reorder columns: geo, name, mortality_rate, gdpcapita, year
 merged_data = merged_data[['geo', 'name', 'mortality_rate', 'gdpcapita', 'year']]

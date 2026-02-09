@@ -1,7 +1,7 @@
 """
 Process GDP data from wide format to tidy format.
 
-This script reads the messy GDP CSV file where years are columns with 'Year_' prefix
+This script reads the messy GDP CSV file where years are columns
 and transforms it into a tidy format with columns: geo, year, gdpcapita.
 """
 
@@ -9,26 +9,29 @@ import pandas as pd
 
 # Load the messy GDP data (wide format)
 print("Loading GDP data...")
-gdp_wide = pd.read_csv('./data/gdp_data.csv')
+gdp_wide = pd.read_csv('./data/raw/gdp-data.csv')
 
 # Transform from wide to long format using pd.melt()
-# The 'Geo' column becomes 'geo', Year_* columns become 'year', values become 'gdpcapita'
+# The 'geo' and 'name' columns are kept as identifiers, year columns become 'year', values become 'gdpcapita'
 print("Transforming GDP data from wide to long format...")
 gdp_tidy = pd.melt(
     gdp_wide,
-    id_vars=['Geo'],
+    id_vars=['geo', 'name'],
     var_name='year',
     value_name='gdpcapita'
 )
 
-# Rename 'Geo' to 'geo' for consistency
-gdp_tidy = gdp_tidy.rename(columns={'Geo': 'geo'})
+# Convert year to integer (it's currently a string from column names)
+gdp_tidy['year'] = gdp_tidy['year'].astype(int)
 
-# Extract year from 'Year_2000' format by removing 'Year_' prefix
-gdp_tidy['year'] = gdp_tidy['year'].str.replace('Year_', '').astype(int)
+# Filter to years 2000-2010 for analysis
+gdp_tidy = gdp_tidy[(gdp_tidy['year'] >= 2000) & (gdp_tidy['year'] <= 2010)]
 
-# Ensure geo is uppercase (standardize country codes)
-gdp_tidy['geo'] = gdp_tidy['geo'].str.upper()
+# Remove rows with missing gdpcapita values
+gdp_tidy = gdp_tidy.dropna(subset=['gdpcapita'])
+
+# Ensure geo is lowercase (as in the source data)
+gdp_tidy['geo'] = gdp_tidy['geo'].str.lower()
 
 # Sort by geo and year for better readability
 gdp_tidy = gdp_tidy.sort_values(['geo', 'year']).reset_index(drop=True)
